@@ -2,14 +2,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26491,
+		"ips": 26530,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 379,
+		"ips": 378,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15529,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -20,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14047,
+		"ips": 14009,
 		"common": 5
 	},
 	{
@@ -44,79 +50,79 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2297,
-		"common": 8
+		"ips": 2302,
+		"common": 7
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 29790,
+		"ips": 29706,
 		"common": 99
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124449,
+		"ips": 124441,
 		"common": 143
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 67039,
+		"ips": 67021,
 		"common": 131
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 321,
+		"ips": 320,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1123,
+		"ips": 1121,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20747,
+		"ips": 20746,
 		"common": 19
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 5156,
+		"ips": 5154,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 33658,
+		"ips": 33543,
 		"common": 99
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163988,
+		"ips": 163977,
 		"common": 145
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85197,
+		"ips": 85154,
 		"common": 132
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 498723,
+		"ips": 498850,
 		"common": 193
 	},
 	{
@@ -152,13 +158,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36320,
+		"ips": 36222,
 		"common": 105
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 279246,
+		"ips": 279243,
 		"common": 147
 	},
 	{
@@ -176,7 +182,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36966,
+		"ips": 37004,
 		"common": 13
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037238,
+		"ips": 9037200,
 		"common": 44
 	},
 	{
@@ -278,7 +284,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 3699,
+		"ips": 3745,
 		"common": 6
 	},
 	{
@@ -374,25 +380,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 876,
+		"ips": 884,
 		"common": 44
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1792,
-		"common": 78
+		"ips": 1823,
+		"common": 80
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 4419,
+		"ips": 4421,
 		"common": 111
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3324,
+		"ips": 3326,
 		"common": 107
 	},
 	{
@@ -446,25 +452,25 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 27,
+		"ips": 23,
 		"common": 2
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 285,
+		"ips": 294,
 		"common": 15
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 1650,
+		"ips": 1652,
 		"common": 52
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 956,
+		"ips": 958,
 		"common": 38
 	},
 	{
@@ -524,8 +530,8 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3048,
-		"common": 4
+		"ips": 3052,
+		"common": 3
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -650,14 +656,14 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 51,
-		"common": 1
+		"ips": 52,
+		"common": 2
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 138,
-		"common": 6
+		"ips": 136,
+		"common": 7
 	},
 	{
 		"name": "xroxy_30d",
