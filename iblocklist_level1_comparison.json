@@ -938,7 +938,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134855,
+		"ips": 134854,
 		"common": 4964
 	},
 	{
@@ -1484,7 +1484,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 3854,
+		"ips": 3748,
 		"common": 58
 	},
 	{
@@ -2036,8 +2036,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 240,
-		"common": 6
+		"ips": 234,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 207,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 261,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -2048,7 +2060,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 238,
+		"ips": 236,
 		"common": 11
 	},
 	{
@@ -2060,20 +2072,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 283,
-		"common": 5
+		"ips": 276,
+		"common": 9
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 416,
+		"ips": 383,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 174,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "urandomusto_vnc",
@@ -2144,7 +2156,7 @@
 	{
 		"name": "zeus",
 		"category": "malware",
-		"ips": 137,
+		"ips": 136,
 		"common": 1
 	}
 ]
