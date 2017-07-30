@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27569,
-		"common": 483
+		"ips": 27481,
+		"common": 479
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -98,31 +98,31 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2345,
+		"ips": 2344,
 		"common": 20
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 29863,
-		"common": 191
+		"common": 190
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124446,
-		"common": 257
+		"ips": 124445,
+		"common": 254
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 67135,
-		"common": 240
+		"ips": 67136,
+		"common": 236
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 367,
+		"ips": 366,
 		"common": 13
 	},
 	{
@@ -134,14 +134,14 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 20823,
-		"common": 156
+		"ips": 20819,
+		"common": 155
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 5144,
-		"common": 129
+		"common": 128
 	},
 	{
 		"name": "cleantalk_updated",
@@ -153,19 +153,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 33775,
-		"common": 187
+		"common": 186
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 163971,
-		"common": 261
+		"common": 258
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85388,
-		"common": 240
+		"common": 236
 	},
 	{
 		"name": "cybercrime",
@@ -231,13 +231,13 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 36209,
-		"common": 195
+		"common": 194
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 279768,
-		"common": 269
+		"ips": 279766,
+		"common": 266
 	},
 	{
 		"name": "firehol_level1",
@@ -248,8 +248,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37880,
-		"common": 483
+		"ips": 37770,
+		"common": 479
 	},
 	{
 		"name": "firehol_level3",
@@ -261,7 +261,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9037328,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "firehol_webclient",
@@ -273,7 +273,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739713,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "gofferje_sip",
@@ -366,6 +366,12 @@
 		"common": 3
 	},
 	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 338911,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
@@ -387,7 +393,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2155,
-		"common": 51
+		"common": 50
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -399,7 +405,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "ransomware_feed",
@@ -411,7 +417,7 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 28011,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "sorbs_dul",
@@ -441,7 +447,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "spamhaus_drop",
@@ -459,7 +465,7 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 155474,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "stopforumspam_180d",
@@ -471,7 +477,7 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 63287,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -480,16 +486,10 @@
 		"common": 19
 	},
 	{
-		"name": "stopforumspam_7d",
-		"category": "abuse",
-		"ips": 16821,
-		"common": 1
-	},
-	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 156467,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -519,7 +519,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 29017,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "urandomusto_ftp",
