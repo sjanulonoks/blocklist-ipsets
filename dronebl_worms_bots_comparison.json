@@ -62,7 +62,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25349,
+		"ips": 25350,
 		"common": 4
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14114,
+		"ips": 14094,
 		"common": 140
 	},
 	{
@@ -494,8 +494,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037322,
-		"common": 654
+		"ips": 9037263,
+		"common": 653
 	},
 	{
 		"name": "firehol_proxies",
@@ -1340,7 +1340,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 300,
+		"ips": 238,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 238,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 363,
 		"common": 3
 	},
 	{
