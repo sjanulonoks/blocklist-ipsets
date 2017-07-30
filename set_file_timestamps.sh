@@ -493,7 +493,7 @@
 [ -f 'iblocklist_isp_twc.netset' ] && /usr/bin/touch --date=@1453720097 'iblocklist_isp_twc.netset'
 [ -f 'iblocklist_isp_verizon.netset' ] && /usr/bin/touch --date=@1453746733 'iblocklist_isp_verizon.netset'
 [ -f 'iblocklist_level1.netset' ] && /usr/bin/touch --date=@1501444898 'iblocklist_level1.netset'
-[ -f 'iblocklist_level2.netset' ] && /usr/bin/touch --date=@1501363410 'iblocklist_level2.netset'
+[ -f 'iblocklist_level2.netset' ] && /usr/bin/touch --date=@1501449860 'iblocklist_level2.netset'
 [ -f 'iblocklist_level3.netset' ] && /usr/bin/touch --date=@1501408329 'iblocklist_level3.netset'
 [ -f 'iblocklist_malc0de.netset' ] && /usr/bin/touch --date=@1501440602 'iblocklist_malc0de.netset'
 [ -f 'iblocklist_onion_router.netset' ] && /usr/bin/touch --date=@1501447984 'iblocklist_onion_router.netset'
