@@ -386,8 +386,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6613,
-		"common": 794
+		"ips": 6615,
+		"common": 798
 	},
 	{
 		"name": "dragon_http",
@@ -500,25 +500,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35447,
+		"ips": 35503,
 		"common": 599
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 279247,
+		"ips": 279281,
 		"common": 730
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38739,
-		"common": 896
+		"ips": 38806,
+		"common": 897
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652752823,
+		"ips": 652752824,
 		"common": 60
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134973,
+		"ips": 134974,
 		"common": 2628
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25848,
+		"ips": 25849,
 		"common": 177
 	},
 	{
@@ -854,7 +854,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 3575,
+		"ips": 3533,
 		"common": 3
 	},
 	{
@@ -906,15 +906,27 @@
 		"common": 98
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 97,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1035,
-		"common": 18
+		"ips": 1076,
+		"common": 19
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 285,
+		"ips": 302,
 		"common": 16
 	},
 	{
@@ -950,20 +962,20 @@
 	{
 		"name": "php_spammers_1d",
 		"category": "spam",
-		"ips": 50,
-		"common": 1
+		"ips": 97,
+		"common": 2
 	},
 	{
 		"name": "php_spammers_30d",
 		"category": "spam",
-		"ips": 1054,
-		"common": 19
+		"ips": 1096,
+		"common": 20
 	},
 	{
 		"name": "php_spammers_7d",
 		"category": "spam",
-		"ips": 287,
-		"common": 16
+		"ips": 331,
+		"common": 17
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1142,8 +1154,8 @@
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 29017,
-		"common": 44
+		"ips": 30110,
+		"common": 22
 	},
 	{
 		"name": "urandomusto_dns",
@@ -1190,13 +1202,13 @@
 	{
 		"name": "zeus",
 		"category": "malware",
-		"ips": 136,
+		"ips": 137,
 		"common": 44
 	},
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 124,
+		"ips": 125,
 		"common": 43
 	}
 ]
