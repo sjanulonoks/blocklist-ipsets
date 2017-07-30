@@ -12,6 +12,12 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 395,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 128,
@@ -146,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14266,
+		"ips": 14274,
 		"common": 65
 	},
 	{
@@ -404,7 +410,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 497649,
+		"ips": 497727,
 		"common": 190
 	},
 	{
@@ -494,7 +500,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36180,
+		"ips": 36226,
 		"common": 598
 	},
 	{
@@ -512,8 +518,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652757944,
-		"common": 59
+		"ips": 652757942,
+		"common": 60
 	},
 	{
 		"name": "firehol_level2",
@@ -530,7 +536,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037439,
+		"ips": 9037447,
 		"common": 597
 	},
 	{
@@ -848,7 +854,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 3279,
+		"ips": 3310,
 		"common": 2
 	},
 	{
@@ -1052,8 +1058,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4851,
-		"common": 440
+		"ips": 4944,
+		"common": 446
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1094,8 +1100,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 2629,
-		"common": 2602
+		"ips": 2628,
+		"common": 2601
 	},
 	{
 		"name": "threatcrowd",
@@ -1142,19 +1148,25 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 149,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 232,
+		"ips": 231,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 437,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 178,
+		"ips": 177,
 		"common": 1
 	},
 	{

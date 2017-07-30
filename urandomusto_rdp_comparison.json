@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652757944,
+		"ips": 652757942,
 		"common": 13
 	},
 	{
@@ -242,20 +242,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037439,
+		"ips": 9037447,
 		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739747,
-		"common": 25
+		"common": 26
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095968,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "greensnow",
@@ -288,6 +288,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227978928,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
@@ -309,13 +315,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139018881,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4292004,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -351,7 +357,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2888,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -369,7 +375,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "shunlist",
@@ -411,7 +417,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12203,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "threatcrowd",
@@ -434,8 +440,14 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 149,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 231,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
@@ -444,27 +456,21 @@
 		"common": 2
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 442,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 426,
-		"common": 7
+		"ips": 396,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 178,
+		"ips": 177,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 37,
+		"ips": 38,
 		"common": 4
 	},
 	{
