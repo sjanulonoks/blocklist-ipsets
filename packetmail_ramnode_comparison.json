@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 544,
+		"ips": 584,
 		"common": 5
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25357,
+		"ips": 25367,
 		"common": 1
 	},
 	{
@@ -90,15 +90,21 @@
 		"common": 75
 	},
 	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9475,
+		"common": 9
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 372,
+		"ips": 373,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 478,
+		"ips": 479,
 		"common": 2
 	},
 	{
@@ -106,6 +112,12 @@
 		"category": "attacks",
 		"ips": 1962,
 		"common": 11
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15924,
+		"common": 16
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -122,8 +134,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14220,
-		"common": 3
+		"ips": 14229,
+		"common": 2
 	},
 	{
 		"name": "bogons",
@@ -350,7 +362,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36343,
+		"ips": 36349,
 		"common": 3
 	},
 	{
@@ -362,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38841,
+		"ips": 38907,
 		"common": 1
 	},
 	{
@@ -374,8 +386,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37583,
-		"common": 175
+		"ips": 37580,
+		"common": 174
 	},
 	{
 		"name": "firehol_level3",
@@ -386,8 +398,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037390,
-		"common": 28
+		"ips": 9037401,
+		"common": 27
 	},
 	{
 		"name": "firehol_proxies",
@@ -422,8 +434,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2323,
-		"common": 60
+		"ips": 2321,
+		"common": 59
 	},
 	{
 		"name": "haley_ssh",
