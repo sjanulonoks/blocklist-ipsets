@@ -15,19 +15,19 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 592,
-		"common": 40
+		"common": 41
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2885,
-		"common": 52
+		"common": 53
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1357,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "bi_http_2_30d",
@@ -45,13 +45,13 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 1567,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 27102,
-		"common": 171
+		"common": 175
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 1025,
+		"ips": 1008,
 		"common": 8
 	},
 	{
@@ -87,7 +87,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 15772,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -99,7 +99,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 8556,
-		"common": 85
+		"common": 88
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -201,7 +201,7 @@
 		"name": "darklist_de",
 		"category": "attacks",
 		"ips": 9685,
-		"common": 53
+		"common": 55
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -213,18 +213,18 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 10279,
-		"common": 73
+		"common": 76
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 8655,
-		"common": 55
+		"common": 58
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 497483,
+		"ips": 497506,
 		"common": 9
 	},
 	{
@@ -327,7 +327,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 37378,
-		"common": 171
+		"common": 175
 	},
 	{
 		"name": "firehol_level3",
@@ -339,7 +339,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9037466,
-		"common": 125
+		"common": 128
 	},
 	{
 		"name": "firehol_proxies",
@@ -375,7 +375,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21742,
-		"common": 63
+		"common": 66
 	},
 	{
 		"name": "hphosts_emd",
@@ -646,6 +646,12 @@
 		"category": "spam",
 		"ips": 609175,
 		"common": 2
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 1
 	},
 	{
 		"name": "sorbs_new_spam",
