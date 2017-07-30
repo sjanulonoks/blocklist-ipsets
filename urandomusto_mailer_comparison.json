@@ -3,7 +3,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 10148,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "blocklist_de",
@@ -30,94 +30,28 @@
 		"common": 1
 	},
 	{
-		"name": "dataplane_dnsrd",
-		"category": "attacks",
-		"ips": 311,
-		"common": 1
-	},
-	{
-		"name": "dataplane_dnsversion",
-		"category": "attacks",
-		"ips": 217,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sipquery",
-		"category": "attacks",
-		"ips": 434,
-		"common": 1
-	},
-	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 10188,
 		"common": 1
 	},
 	{
-		"name": "dataplane_vncrfb",
-		"category": "attacks",
-		"ips": 416,
-		"common": 1
-	},
-	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 8960,
-		"common": 1
-	},
-	{
-		"name": "dshield_30d",
-		"category": "attacks",
-		"ips": 29184,
-		"common": 1
-	},
-	{
-		"name": "dshield_7d",
-		"category": "attacks",
-		"ips": 15872,
-		"common": 1
-	},
-	{
-		"name": "et_block",
-		"category": "attacks",
-		"ips": 24725834,
-		"common": 1
-	},
-	{
-		"name": "et_dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 652752803,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36801,
-		"common": 183
+		"common": 182
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134969,
-		"common": 2
+		"ips": 134713,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739747,
-		"common": 182
+		"common": 181
 	},
 	{
 		"name": "greensnow",
@@ -147,13 +81,25 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2888,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 182
+		"common": 181
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 240762,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 343997,
+		"common": 2
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -168,12 +114,6 @@
 		"common": 1
 	},
 	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 29017,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 239,
@@ -182,19 +122,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 187,
+		"ips": 190,
 		"common": 179
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 411,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 443,
-		"common": 1
-	},
-	{
-		"name": "voipbl",
-		"category": "attacks",
-		"ips": 30063,
+		"ips": 440,
 		"common": 1
 	}
 ]
