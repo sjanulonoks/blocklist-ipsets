@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14395,
+		"ips": 14375,
 		"common": 65
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037502,
+		"ips": 9037483,
 		"common": 599
 	},
 	{
@@ -788,7 +788,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2370,
+		"ips": 2362,
 		"common": 1
 	},
 	{
@@ -1190,20 +1190,26 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 143,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 261,
+		"ips": 260,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 386,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 284,
-		"common": 5
+		"ips": 344,
+		"common": 1
 	},
 	{
 		"name": "uscert_hidden_cobra",
