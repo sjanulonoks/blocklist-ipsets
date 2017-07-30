@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 431,
+		"ips": 458,
 		"common": 10
 	},
 	{
@@ -74,14 +74,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27873,
-		"common": 341
+		"ips": 27734,
+		"common": 340
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1959,
+		"ips": 1955,
 		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 16312,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -92,8 +98,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 8732,
-		"common": 291
+		"ips": 8712,
+		"common": 290
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -104,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 14375,
+		"ips": 14371,
 		"common": 35
 	},
 	{
@@ -116,7 +122,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15559,
+		"ips": 15574,
 		"common": 1
 	},
 	{
@@ -206,13 +212,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10354,
+		"ips": 10343,
 		"common": 431
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8742,
+		"ips": 8736,
 		"common": 334
 	},
 	{
@@ -314,7 +320,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35971,
+		"ips": 35975,
 		"common": 2
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38897,
+		"ips": 38899,
 		"common": 1
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36613,
+		"ips": 37076,
 		"common": 348
 	},
 	{
@@ -350,7 +356,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9037474,
+		"ips": 9037488,
 		"common": 254
 	},
 	{
@@ -374,8 +380,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1567,
-		"common": 11
+		"ips": 2421,
+		"common": 13
 	},
 	{
 		"name": "haley_ssh",
@@ -536,8 +542,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2803,
-		"common": 43
+		"ips": 2155,
+		"common": 31
 	},
 	{
 		"name": "packetmail_ramnode",

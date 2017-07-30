@@ -44,7 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 27873,
+		"ips": 27734,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9387,
 		"common": 1
 	},
 	{
@@ -80,7 +86,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10354,
+		"ips": 10343,
 		"common": 6
 	},
 	{
@@ -146,8 +152,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36613,
-		"common": 21
+		"ips": 37076,
+		"common": 22
 	},
 	{
 		"name": "firehol_level3",
@@ -164,8 +170,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1567,
-		"common": 6
+		"ips": 2421,
+		"common": 8
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -242,8 +248,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2803,
-		"common": 34
+		"ips": 2155,
+		"common": 8
 	},
 	{
 		"name": "packetmail_ramnode",
