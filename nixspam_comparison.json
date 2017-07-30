@@ -927,12 +927,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3140,
+		"ips": 3145,
 		"common": 66
 	},
 	{
@@ -993,12 +993,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 247,
+		"ips": 248,
 		"common": 3
 	},
 	{
@@ -1100,20 +1100,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 255,
+		"ips": 261,
 		"common": 12
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 355,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 212,
-		"common": 3
+		"ips": 243,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 298,
-		"common": 3
+		"ips": 284,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
