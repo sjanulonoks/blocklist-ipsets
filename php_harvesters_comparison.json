@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 26126,
+		"ips": 26060,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15412,
+		"ips": 15372,
 		"common": 2
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36038,
+		"ips": 35974,
 		"common": 4
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25849,
+		"ips": 25851,
 		"common": 10
 	},
 	{
@@ -602,8 +602,8 @@
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
-		"ips": 63287,
-		"common": 12
+		"ips": 62942,
+		"common": 14
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -620,8 +620,8 @@
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
-		"ips": 156467,
-		"common": 12
+		"ips": 156386,
+		"common": 14
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -632,26 +632,32 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 881,
+		"ips": 883,
 		"common": 9
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 924,
+		"ips": 928,
 		"common": 9
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1976,
+		"ips": 1979,
 		"common": 9
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1171,
+		"ips": 1174,
 		"common": 9
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 27252,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
