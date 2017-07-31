@@ -1375,7 +1375,7 @@
 [ -f 'sslproxies_7d.ipset' ] && /usr/bin/touch --date=@1501534921 'sslproxies_7d.ipset'
 [ -f 'stopforumspam.ipset' ] && /usr/bin/touch --date=@1501520479 'stopforumspam.ipset'
 [ -f 'stopforumspam_180d.ipset' ] && /usr/bin/touch --date=@1501501882 'stopforumspam_180d.ipset'
-[ -f 'stopforumspam_1d.ipset' ] && /usr/bin/touch --date=@1501532167 'stopforumspam_1d.ipset'
+[ -f 'stopforumspam_1d.ipset' ] && /usr/bin/touch --date=@1501535766 'stopforumspam_1d.ipset'
 [ -f 'stopforumspam_30d.ipset' ] && /usr/bin/touch --date=@1501458667 'stopforumspam_30d.ipset'
 [ -f 'stopforumspam_365d.ipset' ] && /usr/bin/touch --date=@1501501893 'stopforumspam_365d.ipset'
 [ -f 'stopforumspam_7d.ipset' ] && /usr/bin/touch --date=@1501489869 'stopforumspam_7d.ipset'
