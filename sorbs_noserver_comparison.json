@@ -44,8 +44,8 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 1567,
-		"common": 3
+		"ips": 1574,
+		"common": 4
 	},
 	{
 		"name": "bitcoin_blockchain_info",
@@ -74,25 +74,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6961,
-		"common": 92
+		"ips": 6977,
+		"common": 93
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8468,
+		"ips": 8486,
 		"common": 127
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25426,
+		"ips": 25437,
 		"common": 429
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 13167,
+		"ips": 13165,
 		"common": 218
 	},
 	{
@@ -176,8 +176,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6617,
-		"common": 48
+		"ips": 6599,
+		"common": 49
 	},
 	{
 		"name": "botscout",
@@ -326,7 +326,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6589,
+		"ips": 6597,
 		"common": 49
 	},
 	{
@@ -542,19 +542,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 33678,
+		"ips": 33680,
 		"common": 84
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 279224,
+		"ips": 279226,
 		"common": 2379
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38740,
+		"ips": 38690,
 		"common": 370
 	},
 	{
@@ -998,7 +998,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5010,
+		"ips": 5011,
 		"common": 2
 	},
 	{
@@ -1232,8 +1232,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 315,
+		"ips": 338,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 286,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1242,10 +1248,16 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 313,
+		"common": 4
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 442,
-		"common": 7
+		"ips": 437,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_unspecified",
