@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "blocklist_de",
@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 279,
+		"ips": 280,
 		"common": 6
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 441,
+		"ips": 440,
 		"common": 5
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38830,
+		"ips": 38823,
 		"common": 1
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25857,
+		"ips": 25850,
 		"common": 1
 	},
 	{
@@ -177,7 +177,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656136355,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -216,12 +216,6 @@
 		"common": 10
 	},
 	{
-		"name": "iblocklist_rangetest",
-		"category": "reputation",
-		"ips": 4199798,
-		"common": 1
-	},
-	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1505056,
@@ -243,12 +237,6 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 2604,
-		"common": 1
-	},
-	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
 		"common": 1
 	},
 	{
@@ -315,6 +303,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30096,
-		"common": 38
+		"common": 37
 	}
 ]
