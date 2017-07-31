@@ -50,25 +50,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25897,
-		"common": 54
+		"ips": 25142,
+		"common": 53
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 361,
 		"common": 48
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15319,
-		"common": 4
+		"ips": 14913,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7957,
+		"ips": 7919,
 		"common": 2
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6597,
+		"ips": 6573,
 		"common": 1
 	},
 	{
@@ -282,6 +282,12 @@
 		"common": 10
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 871,
+		"common": 3
+	},
+	{
 		"name": "et_tor",
 		"category": "anonymizers",
 		"ips": 6750,
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38680,
+		"ips": 38752,
 		"common": 5
 	},
 	{
@@ -314,14 +320,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35831,
-		"common": 56
+		"ips": 35084,
+		"common": 55
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131986,
-		"common": 42
+		"ips": 132812,
+		"common": 45
 	},
 	{
 		"name": "firehol_level4",
@@ -446,7 +452,7 @@
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656139683,
+		"ips": 656136355,
 		"common": 256
 	},
 	{
@@ -614,7 +620,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2274,
+		"ips": 2313,
 		"common": 37
 	},
 	{
@@ -819,12 +825,6 @@
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 137,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 313,
 		"common": 1
 	},
 	{
