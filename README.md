@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Mon Jul 31 21:19:23 UTC 2017.
+The following list was automatically generated on Mon Jul 31 21:20:45 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1138,7 +1138,7 @@ sorbs_block|[Sorbs.net](https://www.sorbs.net/) List of hosts demanding that the
 [sslproxies_7d](http://iplists.firehol.org/?ipset=sslproxies_7d)|[SSLProxies.org](http://www.sslproxies.org/) open SSL proxies|ipv4 hash:ip|1077 unique IPs|updated every 10 mins  from [this link](http://www.sslproxies.org/)
 [stopforumspam](http://iplists.firehol.org/?ipset=stopforumspam)|[StopForumSpam.com](http://www.stopforumspam.com) Banned IPs used by forum spammers|ipv4 hash:ip|155278 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/bannedips.zip)
 [stopforumspam_180d](http://iplists.firehol.org/?ipset=stopforumspam_180d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 180 days)|ipv4 hash:ip|241279 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_180.zip)
-[stopforumspam_1d](http://iplists.firehol.org/?ipset=stopforumspam_1d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers in the last 24 hours|ipv4 hash:ip|5854 unique IPs|updated every 1 hour  from [this link](http://www.stopforumspam.com/downloads/listed_ip_1.zip)
+[stopforumspam_1d](http://iplists.firehol.org/?ipset=stopforumspam_1d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers in the last 24 hours|ipv4 hash:ip|5922 unique IPs|updated every 1 hour  from [this link](http://www.stopforumspam.com/downloads/listed_ip_1.zip)
 [stopforumspam_30d](http://iplists.firehol.org/?ipset=stopforumspam_30d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 30 days)|ipv4 hash:ip|62942 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_30.zip)
 [stopforumspam_365d](http://iplists.firehol.org/?ipset=stopforumspam_365d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 365 days)|ipv4 hash:ip|344836 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_365.zip)
 [stopforumspam_7d](http://iplists.firehol.org/?ipset=stopforumspam_7d)|[StopForumSpam.com](http://www.stopforumspam.com) IPs used by forum spammers (last 7 days)|ipv4 hash:ip|16945 unique IPs|updated every 1 day  from [this link](http://www.stopforumspam.com/downloads/listed_ip_7.zip)
