@@ -469,7 +469,7 @@
 [ -f 'iblocklist_ads.netset' ] && /usr/bin/touch --date=@1501471387 'iblocklist_ads.netset'
 [ -f 'iblocklist_badpeers.netset' ] && /usr/bin/touch --date=@1501462936 'iblocklist_badpeers.netset'
 [ -f 'iblocklist_bogons.netset' ] && /usr/bin/touch --date=@1501469102 'iblocklist_bogons.netset'
-[ -f 'iblocklist_ciarmy_malicious.netset' ] && /usr/bin/touch --date=@1501453520 'iblocklist_ciarmy_malicious.netset'
+[ -f 'iblocklist_ciarmy_malicious.netset' ] && /usr/bin/touch --date=@1501540070 'iblocklist_ciarmy_malicious.netset'
 [ -f 'iblocklist_cidr_report_bogons.netset' ] && /usr/bin/touch --date=@1501416714 'iblocklist_cidr_report_bogons.netset'
 [ -f 'iblocklist_cruzit_web_attacks.netset' ] && /usr/bin/touch --date=@1501505229 'iblocklist_cruzit_web_attacks.netset'
 [ -f 'iblocklist_dshield.netset' ] && /usr/bin/touch --date=@1501478044 'iblocklist_dshield.netset'
