@@ -104,13 +104,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124298,
+		"ips": 124279,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163730,
+		"ips": 163716,
 		"common": 2
 	},
 	{
@@ -165,25 +165,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 5632,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28928,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14848,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "dshield_top_1000",
@@ -195,13 +195,13 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24528204,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "et_spamhaus",
@@ -212,26 +212,26 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 277884,
+		"ips": 277873,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652752822,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 34986,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 133261,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "firehol_level4",
@@ -333,7 +333,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612465,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "iblocklist_level3",
@@ -399,7 +399,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "sorbs_noserver",
@@ -482,14 +482,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 192,
+		"ips": 182,
 		"common": 5
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 267,
+		"ips": 246,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 213,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
@@ -500,8 +506,8 @@
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 416,
-		"common": 2
+		"ips": 386,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
