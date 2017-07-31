@@ -18,6 +18,12 @@
 		"common": 1
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1138,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2885,
@@ -36,16 +42,28 @@
 		"common": 1
 	},
 	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 1574,
+		"common": 1
+	},
+	{
 		"name": "bi_voip_2_30d",
 		"category": "attacks",
 		"ips": 10,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 24804,
-		"common": 241
+		"common": 243
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 7879,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13617,
+		"ips": 13607,
 		"common": 20
 	},
 	{
@@ -219,7 +237,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 34719,
-		"common": 241
+		"common": 243
 	},
 	{
 		"name": "firehol_level3",
@@ -230,8 +248,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9368415,
-		"common": 27
+		"ips": 9368407,
+		"common": 28
 	},
 	{
 		"name": "firehol_webclient",
@@ -261,7 +279,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21768,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -333,7 +351,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612465,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "iblocklist_level3",
@@ -411,7 +429,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 55
+		"common": 56
 	},
 	{
 		"name": "sorbs_noserver",
