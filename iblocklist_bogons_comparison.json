@@ -104,7 +104,7 @@
 	{
 		"name": "bambenek_necurs",
 		"category": "malware",
-		"ips": 16,
+		"ips": 12,
 		"common": 10
 	},
 	{
@@ -116,8 +116,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 121,
-		"common": 8
+		"ips": 118,
+		"common": 7
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -188,13 +188,13 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 1504,
-		"common": 53
+		"ips": 1503,
+		"common": 52
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 6364,
+		"ips": 6363,
 		"common": 170
 	},
 	{
@@ -206,37 +206,37 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 6977,
-		"common": 279
+		"ips": 6965,
+		"common": 276
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8486,
+		"ips": 8479,
 		"common": 297
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25437,
+		"ips": 25435,
 		"common": 512
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 13165,
+		"ips": 13159,
 		"common": 364
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 25871,
-		"common": 764
+		"ips": 25861,
+		"common": 767
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9344,
+		"ips": 9343,
 		"common": 61
 	},
 	{
@@ -248,13 +248,13 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 894,
+		"ips": 893,
 		"common": 49
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 452,
+		"ips": 454,
 		"common": 9
 	},
 	{
@@ -266,26 +266,26 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15306,
-		"common": 307
+		"ips": 15299,
+		"common": 308
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 747,
+		"ips": 746,
 		"common": 24
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7944,
-		"common": 352
+		"ips": 7941,
+		"common": 354
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13608,
-		"common": 823
+		"ips": 13609,
+		"common": 821
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -554,14 +554,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10124,
-		"common": 422
+		"ips": 10106,
+		"common": 420
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8507,
-		"common": 280
+		"ips": 8492,
+		"common": 279
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -596,7 +596,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 499534,
+		"ips": 499533,
 		"common": 12712
 	},
 	{
@@ -806,7 +806,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38689,
+		"ips": 38691,
 		"common": 1668
 	},
 	{
@@ -818,8 +818,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35774,
-		"common": 822
+		"ips": 35765,
+		"common": 825
 	},
 	{
 		"name": "firehol_level3",
@@ -830,13 +830,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9368431,
-		"common": 57102
+		"ips": 9368432,
+		"common": 57100
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25819,
+		"ips": 25821,
 		"common": 1359
 	},
 	{
@@ -1530,27 +1530,21 @@
 		"common": 123
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 3
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3069,
+		"ips": 3065,
 		"common": 66
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8759,
+		"ips": 8761,
 		"common": 311
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5087,
+		"ips": 5088,
 		"common": 167
 	},
 	{
@@ -1628,7 +1622,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 267,
+		"ips": 268,
 		"common": 14
 	},
 	{
@@ -1640,8 +1634,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1147,
-		"common": 91
+		"ips": 1143,
+		"common": 89
 	},
 	{
 		"name": "stopforumspam",
