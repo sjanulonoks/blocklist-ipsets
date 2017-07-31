@@ -70,7 +70,7 @@
 [ -f 'blocklist_de.ipset' ] && /usr/bin/touch --date=@1501535645 'blocklist_de.ipset'
 [ -f 'blocklist_de_apache.ipset' ] && /usr/bin/touch --date=@1501535664 'blocklist_de_apache.ipset'
 [ -f 'blocklist_de_bots.ipset' ] && /usr/bin/touch --date=@1501535668 'blocklist_de_bots.ipset'
-[ -f 'blocklist_de_bruteforce.ipset' ] && /usr/bin/touch --date=@1501535433 'blocklist_de_bruteforce.ipset'
+[ -f 'blocklist_de_bruteforce.ipset' ] && /usr/bin/touch --date=@1501535672 'blocklist_de_bruteforce.ipset'
 [ -f 'blocklist_de_ftp.ipset' ] && /usr/bin/touch --date=@1501535667 'blocklist_de_ftp.ipset'
 [ -f 'blocklist_de_imap.ipset' ] && /usr/bin/touch --date=@1501535666 'blocklist_de_imap.ipset'
 [ -f 'blocklist_de_mail.ipset' ] && /usr/bin/touch --date=@1501535662 'blocklist_de_mail.ipset'
