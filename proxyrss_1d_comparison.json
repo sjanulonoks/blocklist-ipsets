@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38846,
+		"ips": 38784,
 		"common": 1470
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133722,
+		"ips": 133727,
 		"common": 206
 	},
 	{
@@ -804,16 +804,22 @@
 		"common": 2
 	},
 	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 201,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 285,
+		"ips": 318,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 394,
-		"common": 2
+		"ips": 450,
+		"common": 3
 	},
 	{
 		"name": "xroxy",
