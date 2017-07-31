@@ -62,14 +62,20 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25612,
+		"ips": 25621,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30639,
-		"common": 379
+		"ips": 30558,
+		"common": 376
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9343,
+		"common": 33
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -86,7 +92,7 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 467,
+		"ips": 470,
 		"common": 3
 	},
 	{
@@ -96,9 +102,15 @@
 		"common": 19
 	},
 	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 21026,
+		"common": 233
+	},
+	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 286,
+		"ips": 284,
 		"common": 1
 	},
 	{
@@ -116,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20048,
+		"ips": 20007,
 		"common": 129
 	},
 	{
@@ -146,8 +158,8 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 30,
-		"common": 1
+		"ips": 49,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
@@ -158,7 +170,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15509,
+		"ips": 15514,
 		"common": 277
 	},
 	{
@@ -452,7 +464,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36441,
+		"ips": 36446,
 		"common": 568
 	},
 	{
@@ -476,8 +488,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39460,
-		"common": 392
+		"ips": 39383,
+		"common": 389
 	},
 	{
 		"name": "firehol_level3",
@@ -488,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9374724,
+		"ips": 9374688,
 		"common": 642
 	},
 	{
@@ -536,7 +548,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2024,
+		"ips": 2012,
 		"common": 33
 	},
 	{
@@ -830,8 +842,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39982,
-		"common": 59
+		"ips": 39976,
+		"common": 58
 	},
 	{
 		"name": "nullsecure",

@@ -56,13 +56,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30639,
+		"ips": 30558,
 		"common": 5
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9343,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 1980,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 21026,
 		"common": 1
 	},
 	{
@@ -200,7 +212,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 36441,
+		"ips": 36446,
 		"common": 1
 	},
 	{
@@ -218,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39460,
-		"common": 63
+		"ips": 39383,
+		"common": 64
 	},
 	{
 		"name": "firehol_level3",
@@ -230,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9374724,
+		"ips": 9374688,
 		"common": 3
 	},
 	{
@@ -242,8 +254,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2024,
-		"common": 18
+		"ips": 2012,
+		"common": 19
 	},
 	{
 		"name": "haley_ssh",
