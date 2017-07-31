@@ -86,13 +86,13 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8535,
+		"ips": 8533,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25464,
+		"ips": 25461,
 		"common": 6
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13764,
+		"ips": 13841,
 		"common": 301
 	},
 	{
@@ -350,8 +350,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6571,
-		"common": 565
+		"ips": 6600,
+		"common": 564
 	},
 	{
 		"name": "dragon_http",
@@ -488,13 +488,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38830,
+		"ips": 38682,
 		"common": 1762
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652752821,
+		"ips": 652752820,
 		"common": 358
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9368553,
+		"ips": 9368628,
 		"common": 4031
 	},
 	{
@@ -836,8 +836,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2789,
-		"common": 28
+		"ips": 2808,
+		"common": 29
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1328,20 +1328,32 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 153,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 230,
+		"ips": 237,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 296,
-		"common": 7
+		"ips": 294,
+		"common": 8
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 240,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 329,
+		"common": 5
 	},
 	{
 		"name": "voipbl",

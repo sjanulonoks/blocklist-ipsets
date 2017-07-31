@@ -134,13 +134,13 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 8535,
+		"ips": 8533,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 25464,
+		"ips": 25461,
 		"common": 29
 	},
 	{
@@ -182,8 +182,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13764,
-		"common": 168
+		"ips": 13841,
+		"common": 169
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -410,8 +410,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6571,
-		"common": 424
+		"ips": 6600,
+		"common": 428
 	},
 	{
 		"name": "dragon_http",
@@ -602,13 +602,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38830,
+		"ips": 38682,
 		"common": 489
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652752821,
+		"ips": 652752820,
 		"common": 83
 	},
 	{
@@ -626,8 +626,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9368553,
-		"common": 1625
+		"ips": 9368628,
+		"common": 1626
 	},
 	{
 		"name": "firehol_proxies",
@@ -1046,7 +1046,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 2789,
+		"ips": 2808,
 		"common": 1
 	},
 	{
@@ -1454,8 +1454,14 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 152,
+		"ips": 153,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 329,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
@@ -1496,7 +1502,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 125,
+		"ips": 124,
 		"common": 4
 	}
 ]
