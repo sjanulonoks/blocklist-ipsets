@@ -441,7 +441,7 @@
 [ -f 'firehol_anonymous.netset' ] && /usr/bin/touch --date=@1501522321 'firehol_anonymous.netset'
 [ -f 'firehol_level1.netset' ] && /usr/bin/touch --date=@1501521846 'firehol_level1.netset'
 [ -f 'firehol_level2.netset' ] && /usr/bin/touch --date=@1501521643 'firehol_level2.netset'
-[ -f 'firehol_level3.netset' ] && /usr/bin/touch --date=@1501521442 'firehol_level3.netset'
+[ -f 'firehol_level3.netset' ] && /usr/bin/touch --date=@1501522217 'firehol_level3.netset'
 [ -f 'firehol_level4.netset' ] && /usr/bin/touch --date=@1501522504 'firehol_level4.netset'
 [ -f 'firehol_proxies.netset' ] && /usr/bin/touch --date=@1501522321 'firehol_proxies.netset'
 [ -f 'firehol_webclient.netset' ] && /usr/bin/touch --date=@1501521655 'firehol_webclient.netset'
