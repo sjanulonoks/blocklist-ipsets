@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20086,
+		"ips": 20079,
 		"common": 81
 	},
 	{
@@ -176,8 +176,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6633,
-		"common": 799
+		"ips": 6648,
+		"common": 804
 	},
 	{
 		"name": "botscout",
@@ -375,7 +375,7 @@
 		"name": "dm_tor",
 		"category": "anonymizers",
 		"ips": 6647,
-		"common": 804
+		"common": 801
 	},
 	{
 		"name": "dragon_http",
@@ -501,12 +501,12 @@
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 38842,
-		"common": 906
+		"common": 905
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652752822,
+		"ips": 652752821,
 		"common": 58
 	},
 	{
@@ -518,19 +518,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 133611,
+		"ips": 133617,
 		"common": 2602
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9374624,
+		"ips": 9374615,
 		"common": 590
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25872,
+		"ips": 25861,
 		"common": 178
 	},
 	{
@@ -1154,8 +1154,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 239,
+		"ips": 285,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 387,
+		"common": 6
 	},
 	{
 		"name": "urlvir",
@@ -1190,7 +1196,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 125,
+		"ips": 124,
 		"common": 43
 	}
 ]
