@@ -74,8 +74,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 392,
-		"common": 6
+		"ips": 401,
+		"common": 4
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -206,8 +206,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 13580,
-		"common": 716
+		"ips": 13512,
+		"common": 713
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -248,8 +248,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6615,
-		"common": 161
+		"ips": 6617,
+		"common": 162
 	},
 	{
 		"name": "botscout",
@@ -476,7 +476,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 130878,
+		"ips": 130891,
 		"common": 79
 	},
 	{
@@ -692,8 +692,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 35629,
-		"common": 228
+		"ips": 34328,
+		"common": 225
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -704,13 +704,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38806,
+		"ips": 38737,
 		"common": 480
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652752816,
+		"ips": 652752823,
 		"common": 602
 	},
 	{
@@ -722,14 +722,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134971,
+		"ips": 134975,
 		"common": 3380
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9368383,
-		"common": 30575
+		"ips": 9368317,
+		"common": 30574
 	},
 	{
 		"name": "firehol_proxies",
@@ -741,7 +741,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739642,
-		"common": 2659
+		"common": 2661
 	},
 	{
 		"name": "fullbogons",
@@ -789,7 +789,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26547,
-		"common": 201
+		"common": 203
 	},
 	{
 		"name": "hphosts_exp",
@@ -867,7 +867,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656139683,
-		"common": 1623
+		"common": 1624
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -891,7 +891,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227978928,
-		"common": 367
+		"common": 368
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -981,7 +981,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691629,
-		"common": 680
+		"common": 681
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1257,13 +1257,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1966
+		"common": 1967
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5012,
-		"common": 171
+		"common": 173
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1272,16 +1272,22 @@
 		"common": 2
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 144,
-		"common": 144
+		"ips": 146,
+		"common": 146
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 335,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -1424,8 +1430,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5526,
-		"common": 151
+		"ips": 3230,
+		"common": 142
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1466,8 +1472,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 2621,
-		"common": 204
+		"ips": 2622,
+		"common": 203
 	},
 	{
 		"name": "threatcrowd",
@@ -1574,7 +1580,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 125,
+		"ips": 124,
 		"common": 1
 	}
 ]
