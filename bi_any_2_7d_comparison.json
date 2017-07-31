@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9375,
+		"ips": 9361,
 		"common": 21
 	},
 	{
@@ -98,37 +98,37 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 925,
+		"ips": 907,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 451,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1986,
+		"ips": 1985,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15328,
-		"common": 75
+		"ips": 15347,
+		"common": 74
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 746,
+		"ips": 745,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7977,
+		"ips": 7986,
 		"common": 164
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6615,
+		"ips": 6589,
 		"common": 74
 	},
 	{
@@ -464,13 +464,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38711,
+		"ips": 38739,
 		"common": 159
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652752824,
+		"ips": 652752826,
 		"common": 40
 	},
 	{
@@ -494,13 +494,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25824,
+		"ips": 25819,
 		"common": 139
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34022,
+		"ips": 34021,
 		"common": 93
 	},
 	{
@@ -1014,10 +1014,16 @@
 		"common": 63
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3077,
-		"common": 36
+		"ips": 3065,
+		"common": 35
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1028,7 +1034,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5101,
+		"ips": 5099,
 		"common": 48
 	},
 	{
@@ -1082,7 +1088,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4203,
+		"ips": 4197,
 		"common": 1
 	},
 	{
