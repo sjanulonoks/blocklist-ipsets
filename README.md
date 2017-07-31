@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Mon Jul 31 21:27:20 UTC 2017.
+The following list was automatically generated on Mon Jul 31 21:28:43 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -296,7 +296,7 @@ name|info|type|entries|update|
 [blocklist_de](http://iplists.firehol.org/?ipset=blocklist_de)|[Blocklist.de](https://www.blocklist.de/) IPs that have been detected by fail2ban in the last 48 hours|ipv4 hash:ip|30574 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/all.txt)
 [blocklist_de_apache](http://iplists.firehol.org/?ipset=blocklist_de_apache)|[Blocklist.de](https://www.blocklist.de/) All IP addresses which have been reported within the last 48 hours as having run attacks on the service Apache, Apache-DDOS, RFI-Attacks.|ipv4 hash:ip|9348 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/apache.txt)
 [blocklist_de_bots](http://iplists.firehol.org/?ipset=blocklist_de_bots)|[Blocklist.de](https://www.blocklist.de/) All IP addresses which have been reported within the last 48 hours as having run attacks on the RFI-Attacks, REG-Bots, IRC-Bots or BadBots (BadBots = it has posted a Spam-Comment on a open Forum or Wiki).|ipv4 hash:ip|411 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/bots.txt)
-[blocklist_de_bruteforce](http://iplists.firehol.org/?ipset=blocklist_de_bruteforce)|[Blocklist.de](https://www.blocklist.de/) All IPs which attacks Joomla, Wordpress and other Web-Logins with Brute-Force Logins.|ipv4 hash:ip|874 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/bruteforcelogin.txt)
+[blocklist_de_bruteforce](http://iplists.firehol.org/?ipset=blocklist_de_bruteforce)|[Blocklist.de](https://www.blocklist.de/) All IPs which attacks Joomla, Wordpress and other Web-Logins with Brute-Force Logins.|ipv4 hash:ip|875 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/bruteforcelogin.txt)
 [blocklist_de_ftp](http://iplists.firehol.org/?ipset=blocklist_de_ftp)|[Blocklist.de](https://www.blocklist.de/) All IP addresses which have been reported within the last 48 hours for attacks on the Service FTP.|ipv4 hash:ip|473 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/ftp.txt)
 [blocklist_de_imap](http://iplists.firehol.org/?ipset=blocklist_de_imap)|[Blocklist.de](https://www.blocklist.de/) All IP addresses which have been reported within the last 48 hours for attacks on the Service imap, sasl, pop3, etc.|ipv4 hash:ip|1984 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/imap.txt)
 [blocklist_de_mail](http://iplists.firehol.org/?ipset=blocklist_de_mail)|[Blocklist.de](https://www.blocklist.de/) All IP addresses which have been reported within the last 48 hours as having run attacks on the service Mail, Postfix.|ipv4 hash:ip|21087 unique IPs|updated every 15 mins  from [this link](http://lists.blocklist.de/lists/mail.txt)
