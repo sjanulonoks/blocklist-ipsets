@@ -224,7 +224,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19779,
+		"ips": 19785,
 		"common": 103
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 505127,
+		"ips": 505208,
 		"common": 167
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360302,
+		"ips": 9360308,
 		"common": 783
 	},
 	{
@@ -1022,8 +1022,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39995,
-		"common": 8
+		"ips": 39994,
+		"common": 6
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1056,10 +1056,16 @@
 		"common": 3
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 223,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2619,
-		"common": 37
+		"ips": 2665,
+		"common": 38
 	},
 	{
 		"name": "php_commenters",
