@@ -3,13 +3,13 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 57
+		"common": 54
 	},
 	{
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "bds_atif",
@@ -39,13 +39,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 30186,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9279,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
@@ -123,7 +123,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24528204,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "et_dshield",
@@ -132,16 +132,22 @@
 		"common": 2
 	},
 	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24521984,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652747855,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39347,
-		"common": 7
+		"ips": 39332,
+		"common": 8
 	},
 	{
 		"name": "firehol_level3",
@@ -152,19 +158,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360291,
+		"ips": 9360278,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739670,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2441,
+		"ips": 2416,
 		"common": 5
 	},
 	{
@@ -177,7 +183,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655894435,
-		"common": 7
+		"common": 5
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -189,12 +195,6 @@
 		"name": "iblocklist_dshield",
 		"category": "attacks",
 		"ips": 3588,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_edu",
-		"category": "organizations",
-		"ips": 227967304,
 		"common": 1
 	},
 	{
@@ -213,43 +213,55 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625687,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346607179,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138619103,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 845657,
-		"common": 4
+		"common": 3
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24521984,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2926,
-		"common": 18
+		"common": 16
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -267,19 +279,19 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 49
+		"common": 55
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -292,6 +304,12 @@
 		"category": "spam",
 		"ips": 6267285,
 		"common": 7
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24720896,
+		"common": 1
 	},
 	{
 		"name": "taichung",
@@ -314,7 +332,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 162,
 		"common": 1
 	},
 	{
@@ -332,8 +350,8 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 226,
-		"common": 1
+		"ips": 230,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_smb",
@@ -344,8 +362,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 439,
-		"common": 20
+		"ips": 428,
+		"common": 19
 	},
 	{
 		"name": "voipbl",
