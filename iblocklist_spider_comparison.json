@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19726,
+		"ips": 19722,
 		"common": 7
 	},
 	{
@@ -230,14 +230,14 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 9848,
-		"common": 5
+		"ips": 9876,
+		"common": 6
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8259,
-		"common": 1
+		"ips": 8296,
+		"common": 2
 	},
 	{
 		"name": "dm_tor",
@@ -255,7 +255,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312398,
-		"common": 108
+		"common": 110
 	},
 	{
 		"name": "dronebl_ddos_drones",
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38814,
+		"ips": 38815,
 		"common": 5
 	},
 	{
@@ -308,8 +308,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39549,
-		"common": 60
+		"ips": 39750,
+		"common": 59
 	},
 	{
 		"name": "firehol_level3",
@@ -320,13 +320,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360247,
+		"ips": 9360244,
 		"common": 1436
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25808,
+		"ips": 25809,
 		"common": 4
 	},
 	{
@@ -339,7 +339,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739670,
-		"common": 408
+		"common": 409
 	},
 	{
 		"name": "fullbogons",
@@ -393,7 +393,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 26383,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "hphosts_mmt",
@@ -429,7 +429,7 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888585,
-		"common": 100
+		"common": 105
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -483,19 +483,19 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 2288
+		"common": 2296
 	},
 	{
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 2112
+		"common": 2120
 	},
 	{
 		"name": "iblocklist_isp_sprint",
 		"category": "organizations",
 		"ips": 6310530,
-		"common": 728
+		"common": 760
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -507,19 +507,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625687,
-		"common": 14401
+		"common": 14155
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346607179,
-		"common": 8447
+		"common": 8191
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138619103,
-		"common": 30181
+		"common": 30189
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -531,7 +531,7 @@
 		"name": "iblocklist_org_blizzard",
 		"category": "organizations",
 		"ips": 16795139,
-		"common": 800
+		"common": 816
 	},
 	{
 		"name": "iblocklist_org_joost",
@@ -573,7 +573,7 @@
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 11809,
-		"common": 109
+		"common": 110
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -608,8 +608,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39995,
-		"common": 12
+		"ips": 39998,
+		"common": 13
 	},
 	{
 		"name": "nt_malware_http",
@@ -849,6 +849,6 @@
 		"name": "yoyo_adservers",
 		"category": "organizations",
 		"ips": 12417,
-		"common": 117
+		"common": 118
 	}
 ]
