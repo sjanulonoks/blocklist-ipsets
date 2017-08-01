@@ -36,10 +36,10 @@
 		"common": 2
 	},
 	{
-		"name": "blocklist_de_ssh",
+		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 7019,
-		"common": 1
+		"ips": 30387,
+		"common": 243
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -50,14 +50,14 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19767,
+		"ips": 19694,
 		"common": 51
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1146,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -129,13 +129,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 9979,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 8373,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dragon_http",
@@ -152,7 +152,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 131027,
+		"ips": 131042,
 		"common": 1
 	},
 	{
@@ -183,7 +183,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1131,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "et_spamhaus",
@@ -194,13 +194,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37024,
-		"common": 2
+		"ips": 36054,
+		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 277712,
+		"ips": 277695,
 		"common": 4
 	},
 	{
@@ -212,19 +212,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 18129,
-		"common": 3
+		"ips": 39566,
+		"common": 243
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134005,
-		"common": 18
+		"ips": 133434,
+		"common": 17
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360347,
+		"ips": 9360275,
 		"common": 58
 	},
 	{
@@ -297,12 +297,6 @@
 		"name": "iblocklist_isp_att",
 		"category": "organizations",
 		"ips": 55845128,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_isp_charter",
-		"category": "organizations",
-		"ips": 6138112,
 		"common": 1
 	},
 	{
@@ -411,7 +405,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 58
+		"common": 57
 	},
 	{
 		"name": "sorbs_noserver",
@@ -453,12 +447,6 @@
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 241279,
-		"common": 1
-	},
-	{
-		"name": "stopforumspam_1d",
-		"category": "abuse",
-		"ips": 6081,
 		"common": 1
 	},
 	{

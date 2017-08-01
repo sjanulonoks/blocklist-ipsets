@@ -1,14 +1,20 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30387,
+		"common": 6
+	},
+	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 417,
+		"ips": 418,
 		"common": 6
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19767,
+		"ips": 19694,
 		"common": 7
 	},
 	{
@@ -86,19 +92,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37024,
-		"common": 13
+		"ips": 36054,
+		"common": 12
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 277712,
+		"ips": 277695,
 		"common": 20
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39566,
+		"common": 6
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360347,
+		"ips": 9360275,
 		"common": 16
 	},
 	{
@@ -188,8 +200,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6081,
-		"common": 9
+		"ips": 4215,
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_30d",
