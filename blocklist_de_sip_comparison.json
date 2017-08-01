@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 319,
+		"ips": 327,
 		"common": 1
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34262,
-		"common": 213
+		"ips": 34244,
+		"common": 211
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -57,7 +57,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 26086,
-		"common": 79
+		"common": 78
 	},
 	{
 		"name": "bruteforceblocker",
@@ -123,13 +123,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 10208,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 8630,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dragon_http",
@@ -152,13 +152,13 @@
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 29184,
+		"ips": 29440,
 		"common": 4
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 14336,
+		"ips": 14592,
 		"common": 1
 	},
 	{
@@ -194,8 +194,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42968,
-		"common": 213
+		"ips": 43214,
+		"common": 211
 	},
 	{
 		"name": "firehol_level3",
@@ -212,14 +212,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34024,
+		"ips": 34027,
 		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740072,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "gofferje_sip",
@@ -230,8 +230,14 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1756,
+		"ips": 1770,
 		"common": 4
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 21847,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -273,7 +279,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -351,7 +357,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "sblam",
@@ -363,7 +369,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "sorbs_noserver",
@@ -416,13 +422,13 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 159,
 		"common": 3
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30158,
-		"common": 59
+		"common": 58
 	}
 ]
