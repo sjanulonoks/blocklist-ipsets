@@ -20,13 +20,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30539,
+		"ips": 30092,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22060,
+		"ips": 21920,
 		"common": 1
 	},
 	{
@@ -86,37 +86,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30661,
+		"ips": 30619,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124406,
+		"ips": 124391,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66206,
+		"ips": 66193,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35428,
+		"ips": 35393,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 163875,
+		"ips": 163867,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 83554,
+		"ips": 83555,
 		"common": 1
 	},
 	{
@@ -146,25 +146,25 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37696,
+		"ips": 37660,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 278008,
+		"ips": 278006,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652747855,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39688,
+		"ips": 39244,
 		"common": 1
 	},
 	{
@@ -182,14 +182,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34023,
-		"common": 144
+		"ips": 34025,
+		"common": 146
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739670,
-		"common": 121
+		"common": 123
 	},
 	{
 		"name": "gofferje_sip",
@@ -207,7 +207,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26552,
-		"common": 118
+		"common": 120
 	},
 	{
 		"name": "hphosts_fsa",
@@ -249,19 +249,19 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655894435,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227967304,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625687,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_level2",
@@ -321,19 +321,25 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5011,
-		"common": 144
+		"common": 146
+	},
+	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 333,
-		"common": 2
+		"common": 4
 	},
 	{
 		"name": "sorbs_dul",
