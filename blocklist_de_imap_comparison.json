@@ -62,20 +62,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30163,
-		"common": 2054
+		"ips": 30186,
+		"common": 2060
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 21580,
-		"common": 2054
+		"ips": 21599,
+		"common": 2061
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 183,
-		"common": 16
+		"common": 18
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -230,20 +230,26 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 502492,
+		"ips": 502550,
 		"common": 15
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312398,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "dronebl_autorooting_worms",
 		"category": "attacks",
 		"ips": 1046,
-		"common": 2
+		"common": 1
+	},
+	{
+		"name": "dronebl_ddos_drones",
+		"category": "attacks",
+		"ips": 290645,
+		"common": 1
 	},
 	{
 		"name": "dronebl_irc_drones",
@@ -255,7 +261,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 131043,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "dshield",
@@ -285,7 +291,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24528204,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "et_compromised",
@@ -303,7 +309,7 @@
 		"name": "et_spamhaus",
 		"category": "attacks",
 		"ips": 24521984,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "firehol_abusers_1d",
@@ -315,7 +321,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 277899,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "firehol_anonymous",
@@ -327,13 +333,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652747855,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39325,
-		"common": 2054
+		"ips": 39347,
+		"common": 2060
 	},
 	{
 		"name": "firehol_level3",
@@ -344,8 +350,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360243,
-		"common": 62
+		"ips": 9360244,
+		"common": 63
 	},
 	{
 		"name": "firehol_proxies",
@@ -363,7 +369,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739670,
-		"common": 107
+		"common": 108
 	},
 	{
 		"name": "gofferje_sip",
@@ -465,7 +471,7 @@
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_isp_qwest",
@@ -477,13 +483,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625687,
-		"common": 42
+		"common": 41
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346607179,
-		"common": 83
+		"common": 84
 	},
 	{
 		"name": "iblocklist_level3",
@@ -513,7 +519,7 @@
 		"name": "iblocklist_spamhaus_drop",
 		"category": "attacks",
 		"ips": 24521984,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -525,7 +531,7 @@
 		"name": "ipblacklistcloud_top",
 		"category": "abuse",
 		"ips": 232,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iw_spamlist",
@@ -560,7 +566,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10753,
+		"ips": 10576,
 		"common": 13
 	},
 	{
@@ -645,7 +651,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 92
+		"common": 93
 	},
 	{
 		"name": "ransomware_feed",
@@ -669,7 +675,7 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 25988,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "snort_ipfilter",
@@ -729,13 +735,13 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 65
+		"common": 64
 	},
 	{
 		"name": "spamhaus_drop",
 		"category": "reputation",
 		"ips": 24720896,
-		"common": 28
+		"common": 29
 	},
 	{
 		"name": "spamhaus_edrop",
@@ -789,7 +795,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "taichung",
@@ -837,7 +843,7 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "urandomusto_ntp",
