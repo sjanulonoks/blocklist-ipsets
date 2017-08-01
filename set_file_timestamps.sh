@@ -396,7 +396,7 @@
 [ -f 'dronebl_worms_bots.netset' ] && /usr/bin/touch --date=@1501623312 'dronebl_worms_bots.netset'
 [ -f 'dshield.netset' ] && /usr/bin/touch --date=@1501619419 'dshield.netset'
 [ -f 'dshield_1d.netset' ] && /usr/bin/touch --date=@1501619419 'dshield_1d.netset'
-[ -f 'dshield_30d.netset' ] && /usr/bin/touch --date=@1501619419 'dshield_30d.netset'
+[ -f 'dshield_30d.netset' ] && /usr/bin/touch --date=@1501623019 'dshield_30d.netset'
 [ -f 'dshield_7d.netset' ] && /usr/bin/touch --date=@1501615821 'dshield_7d.netset'
 [ -f 'dshield_top_1000.ipset' ] && /usr/bin/touch --date=@1501620483 'dshield_top_1000.ipset'
 [ -f 'dyndns_ponmocup.ipset' ] && /usr/bin/touch --date=@1501616083 'dyndns_ponmocup.ipset'
