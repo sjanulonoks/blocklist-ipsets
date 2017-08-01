@@ -42,10 +42,10 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
+		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 30462,
-		"common": 490
+		"ips": 7019,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,8 +56,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 19653,
-		"common": 19
+		"ips": 19675,
+		"common": 21
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -99,25 +99,25 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2378,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 29473,
-		"common": 200
+		"common": 199
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 124338,
-		"common": 253
+		"common": 251
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 66175,
-		"common": 234
+		"common": 232
 	},
 	{
 		"name": "cleantalk_new",
@@ -135,7 +135,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 20455,
-		"common": 135
+		"common": 134
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -147,25 +147,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 33946,
-		"common": 195
+		"common": 194
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 163826,
-		"common": 259
+		"common": 257
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 83599,
-		"common": 234
+		"common": 232
 	},
 	{
 		"name": "cybercrime",
@@ -183,13 +183,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 9993,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 8389,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -237,37 +237,37 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 36845,
-		"common": 200
+		"common": 199
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 277724,
-		"common": 262
+		"common": 260
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652748213,
+		"ips": 652748210,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39646,
-		"common": 490
+		"ips": 18129,
+		"common": 147
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 134006,
+		"ips": 134005,
 		"common": 23
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9360240,
-		"common": 30
+		"ips": 9360258,
+		"common": 32
 	},
 	{
 		"name": "firehol_webclient",
@@ -279,7 +279,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739670,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "gofferje_sip",
@@ -291,7 +291,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2497,
-		"common": 144
+		"common": 147
 	},
 	{
 		"name": "haley_ssh",
@@ -363,7 +363,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346607179,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level3",
@@ -416,7 +416,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34737,
+		"ips": 30221,
 		"common": 1
 	},
 	{
@@ -441,7 +441,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "ransomware_feed",
@@ -477,7 +477,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "sorbs_web",
@@ -506,7 +506,7 @@
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
-		"ips": 62942,
+		"ips": 63001,
 		"common": 4
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
-		"ips": 156386,
+		"ips": 156759,
 		"common": 9
 	},
 	{
@@ -555,13 +555,13 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 248,
-		"common": 56
+		"common": 57
 	},
 	{
 		"name": "urandomusto_http",
