@@ -86,8 +86,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31524,
-		"common": 8
+		"ips": 31238,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28925,
+		"ips": 28907,
 		"common": 94
 	},
 	{
@@ -140,14 +140,14 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 40,
-		"common": 7
+		"ips": 44,
+		"common": 13
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 869,
-		"common": 175
+		"ips": 888,
+		"common": 180
 	},
 	{
 		"name": "botscout_30d",
@@ -158,8 +158,8 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4513,
-		"common": 457
+		"ips": 4525,
+		"common": 458
 	},
 	{
 		"name": "bruteforceblocker",
@@ -260,20 +260,20 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10392,
-		"common": 262
+		"ips": 10406,
+		"common": 263
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8856,
-		"common": 256
+		"ips": 8868,
+		"common": 257
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6706,
-		"common": 841
+		"ips": 6725,
+		"common": 844
 	},
 	{
 		"name": "dragon_http",
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39222,
+		"ips": 39229,
 		"common": 658
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38650,
+		"ips": 38709,
 		"common": 903
 	},
 	{
@@ -404,25 +404,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39680,
-		"common": 36
+		"ips": 39404,
+		"common": 38
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132457,
+		"ips": 132454,
 		"common": 910
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9519479,
+		"ips": 9519466,
 		"common": 585
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25650,
+		"ips": 25647,
 		"common": 136
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1765,
-		"common": 25
+		"ips": 1776,
+		"common": 26
 	},
 	{
 		"name": "haley_ssh",
@@ -914,8 +914,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 276,
-		"common": 6
+		"ips": 261,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 253,
+		"common": 2
 	},
 	{
 		"name": "urlvir",

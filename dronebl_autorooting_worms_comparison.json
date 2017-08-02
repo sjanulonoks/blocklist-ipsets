@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31524,
+		"ips": 31238,
 		"common": 33
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28925,
+		"ips": 28907,
 		"common": 7
 	},
 	{
@@ -158,13 +158,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10392,
+		"ips": 10406,
 		"common": 36
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8856,
+		"ips": 8868,
 		"common": 30
 	},
 	{
@@ -236,19 +236,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39680,
+		"ips": 39404,
 		"common": 33
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132457,
+		"ips": 132454,
 		"common": 35
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9519479,
+		"ips": 9519466,
 		"common": 509
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1765,
+		"ips": 1776,
 		"common": 4
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2905,
+		"ips": 2783,
 		"common": 2
 	},
 	{
@@ -538,6 +538,12 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 29
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 253,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
