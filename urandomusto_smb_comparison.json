@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "atlas_attacks",
@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34777,
+		"ips": 34743,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8984,
+		"ips": 8980,
 		"common": 1
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10300,
+		"ips": 10316,
 		"common": 7
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43842,
+		"ips": 43761,
 		"common": 22
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132802,
+		"ips": 133002,
 		"common": 52
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2249,
+		"ips": 2188,
 		"common": 9
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 172,
+		"ips": 173,
 		"common": 10
 	},
 	{
@@ -326,26 +326,32 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 366,
-		"common": 1
+		"ips": 330,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 431,
+		"ips": 429,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 163,
+		"ips": 162,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 221,
+		"ips": 214,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
