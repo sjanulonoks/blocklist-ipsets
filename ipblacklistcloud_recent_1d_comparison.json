@@ -1,26 +1,50 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 31311,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 249,
+		"common": 1
+	},
+	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 28864,
-		"common": 18
+		"common": 30
 	},
 	{
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 30390,
+		"common": 2
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 39477,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9519442,
-		"common": 32
+		"common": 44
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34034,
+		"common": 2
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34740062,
 		"common": 1
 	},
 	{
@@ -30,10 +54,22 @@
 		"common": 15
 	},
 	{
+		"name": "iblocklist_isp_charter",
+		"category": "organizations",
+		"ips": 6138112,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346495523,
+		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_recent",
@@ -44,14 +80,14 @@
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 406,
-		"common": 32
+		"ips": 429,
+		"common": 63
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 92,
-		"common": 32
+		"ips": 118,
+		"common": 63
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -60,9 +96,33 @@
 		"common": 32
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1640740,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	},
+	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 5
+		"common": 24
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 261,
+		"common": 1
 	}
 ]
