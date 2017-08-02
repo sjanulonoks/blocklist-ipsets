@@ -2,13 +2,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32698,
+		"ips": 32773,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 439,
+		"ips": 440,
 		"common": 4
 	},
 	{
@@ -18,9 +18,15 @@
 		"common": 8
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 902,
+		"ips": 896,
 		"common": 6
 	},
 	{
@@ -32,7 +38,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4516,
+		"ips": 4519,
 		"common": 11
 	},
 	{
@@ -74,7 +80,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38801,
+		"ips": 38799,
 		"common": 13
 	},
 	{
@@ -86,13 +92,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41327,
+		"ips": 41416,
 		"common": 4
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9519660,
+		"ips": 9519661,
 		"common": 16
 	},
 	{
@@ -214,5 +220,11 @@
 		"category": "abuse",
 		"ips": 537175,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 274,
+		"common": 1
 	}
 ]
