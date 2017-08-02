@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 325,
+		"ips": 321,
 		"common": 56
 	},
 	{
@@ -146,32 +146,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6651,
-		"common": 895
+		"ips": 6686,
+		"common": 903
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
 		"ips": 53,
-		"common": 6
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 852,
-		"common": 196
+		"ips": 862,
+		"common": 193
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15258,
+		"ips": 15262,
 		"common": 755
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4492,
-		"common": 482
+		"ips": 4497,
+		"common": 481
 	},
 	{
 		"name": "bruteforceblocker",
@@ -296,8 +296,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6683,
-		"common": 903
+		"ips": 6688,
+		"common": 901
 	},
 	{
 		"name": "dragon_http",
@@ -332,7 +332,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 51667,
+		"ips": 51668,
 		"common": 6
 	},
 	{
@@ -416,8 +416,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38686,
-		"common": 981
+		"ips": 38690,
+		"common": 980
 	},
 	{
 		"name": "firehol_level1",
@@ -428,25 +428,25 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43892,
-		"common": 42
+		"ips": 43885,
+		"common": 43
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 131955,
+		"ips": 131969,
 		"common": 1023
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9518061,
+		"ips": 9518065,
 		"common": 760
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25675,
+		"ips": 25674,
 		"common": 165
 	},
 	{
@@ -482,8 +482,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2205,
-		"common": 31
+		"ips": 2201,
+		"common": 32
 	},
 	{
 		"name": "haley_ssh",
@@ -914,8 +914,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 16906,
-		"common": 636
+		"ips": 16846,
+		"common": 639
 	},
 	{
 		"name": "stopforumspam_90d",
@@ -986,14 +986,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 340,
-		"common": 18
+		"ips": 351,
+		"common": 25
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 416,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 443,
-		"common": 1
+		"ips": 446,
+		"common": 3
 	},
 	{
 		"name": "urlvir",
