@@ -8,7 +8,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 113,
+		"ips": 116,
 		"common": 2
 	},
 	{
@@ -39,6 +39,12 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 1585,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30860,
 		"common": 1
 	},
 	{
@@ -134,7 +140,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10406,
+		"ips": 10423,
 		"common": 2
 	},
 	{
@@ -188,8 +194,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 16909,
-		"common": 3
+		"ips": 39042,
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -200,7 +206,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9519411,
+		"ips": 9519400,
 		"common": 3
 	},
 	{
@@ -218,7 +224,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1786,
+		"ips": 1795,
 		"common": 2
 	},
 	{
@@ -374,7 +380,7 @@
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
-		"ips": 155329,
+		"ips": 154423,
 		"common": 2
 	},
 	{
@@ -428,8 +434,14 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 176,
+		"ips": 177,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_unspecified",
+		"category": "attacks",
+		"ips": 168,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

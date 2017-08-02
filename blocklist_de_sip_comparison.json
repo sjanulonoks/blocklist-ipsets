@@ -48,15 +48,21 @@
 		"common": 2
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30860,
+		"common": 238
+	},
+	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6344,
-		"common": 1
+		"ips": 6357,
+		"common": 6
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28836,
+		"ips": 28822,
 		"common": 65
 	},
 	{
@@ -128,13 +134,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10406,
+		"ips": 10423,
 		"common": 31
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8868,
+		"ips": 8884,
 		"common": 31
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39480,
+		"ips": 39487,
 		"common": 1
 	},
 	{
@@ -206,8 +212,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 16909,
-		"common": 2
+		"ips": 39042,
+		"common": 238
 	},
 	{
 		"name": "firehol_level3",
@@ -218,13 +224,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9519411,
+		"ips": 9519400,
 		"common": 81
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34034,
+		"ips": 34032,
 		"common": 14
 	},
 	{
@@ -242,7 +248,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1786,
+		"ips": 1795,
 		"common": 2
 	},
 	{
@@ -434,14 +440,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 253,
+		"ips": 263,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 168,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "voipbl",
