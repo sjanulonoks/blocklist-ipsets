@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9520917,
+		"ips": 9520876,
 		"common": 4
 	},
 	{
@@ -348,12 +348,6 @@
 		"common": 7
 	},
 	{
-		"name": "iblocklist_isp_verizon",
-		"category": "organizations",
-		"ips": 18087936,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691372,
@@ -429,13 +423,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "spamhaus_drop",
@@ -512,13 +506,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 174,
 		"common": 2
 	},
 	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 138,
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 162,
 		"common": 1
 	},
 	{
@@ -528,22 +522,10 @@
 		"common": 6
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 325,
-		"common": 2
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 445,
-		"common": 2
-	},
-	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 165,
-		"common": 4
+		"ips": 162,
+		"common": 3
 	},
 	{
 		"name": "voipbl",

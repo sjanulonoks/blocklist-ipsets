@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 30348,
+		"ips": 30305,
 		"common": 285
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9520917,
+		"ips": 9520876,
 		"common": 4542
 	},
 	{
@@ -1296,10 +1296,16 @@
 		"common": 3
 	},
 	{
-		"name": "urandomusto_ssh",
+		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 325,
+		"ips": 174,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 162,
+		"common": 7
 	},
 	{
 		"name": "voipbl",
@@ -1317,12 +1323,12 @@
 		"name": "xroxy",
 		"category": "anonymizers",
 		"ips": 56,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 144,
+		"ips": 146,
 		"common": 22
 	},
 	{
