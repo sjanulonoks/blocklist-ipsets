@@ -9,18 +9,18 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 825,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 324,
+		"ips": 318,
 		"common": 2
 	},
 	{
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32821,
-		"common": 586
+		"ips": 32898,
+		"common": 589
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28978,
+		"ips": 29021,
 		"common": 32
 	},
 	{
@@ -92,14 +92,14 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15251,
+		"ips": 15242,
 		"common": 1
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1209,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "ciarmy",
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38702,
+		"ips": 38700,
 		"common": 250
 	},
 	{
@@ -272,20 +272,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41432,
-		"common": 586
+		"ips": 41520,
+		"common": 589
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 132110,
-		"common": 18
+		"ips": 132111,
+		"common": 19
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9519555,
-		"common": 40
+		"ips": 9519589,
+		"common": 41
 	},
 	{
 		"name": "firehol_webclient",
@@ -308,8 +308,14 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1699,
-		"common": 121
+		"ips": 1713,
+		"common": 123
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 21916,
+		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
@@ -554,13 +560,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 293,
-		"common": 53
+		"ips": 281,
+		"common": 54
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 349,
-		"common": 2
+		"ips": 331,
+		"common": 1
 	}
 ]
