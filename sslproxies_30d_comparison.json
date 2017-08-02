@@ -9,7 +9,7 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -170,13 +170,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10357,
+		"ips": 10356,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 8806,
+		"ips": 8812,
 		"common": 1
 	},
 	{
@@ -254,8 +254,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38710,
-		"common": 3923
+		"ips": 38712,
+		"common": 3925
 	},
 	{
 		"name": "firehol_level2",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25673,
-		"common": 3923
+		"ips": 25675,
+		"common": 3925
 	},
 	{
 		"name": "firehol_webclient",
@@ -399,7 +399,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138841142,
-		"common": 283
+		"common": 284
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -702,9 +702,15 @@
 		"common": 246
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 3015,
+		"ips": 3021,
 		"common": 18
 	},
 	{
@@ -764,14 +770,14 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 326,
-		"common": 326
+		"ips": 328,
+		"common": 328
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 999,
-		"common": 999
+		"ips": 1001,
+		"common": 1001
 	},
 	{
 		"name": "stopforumspam",
