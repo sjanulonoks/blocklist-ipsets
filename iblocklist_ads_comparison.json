@@ -14,7 +14,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 114,
+		"ips": 115,
 		"common": 2
 	},
 	{
@@ -22,6 +22,12 @@
 		"category": "malware",
 		"ips": 381,
 		"common": 6
+	},
+	{
+		"name": "bambenek_matsnu",
+		"category": "malware",
+		"ips": 7,
+		"common": 1
 	},
 	{
 		"name": "bambenek_simda",
@@ -146,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 27163,
+		"ips": 27169,
 		"common": 12
 	},
 	{
@@ -194,25 +200,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 58,
+		"ips": 67,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 844,
+		"ips": 849,
 		"common": 4
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15241,
+		"ips": 15251,
 		"common": 36
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4527,
+		"ips": 4528,
 		"common": 11
 	},
 	{
@@ -362,7 +368,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6671,
+		"ips": 6691,
 		"common": 3
 	},
 	{
@@ -578,19 +584,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39244,
+		"ips": 39246,
 		"common": 251
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 278167,
+		"ips": 278171,
 		"common": 512
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38720,
+		"ips": 38676,
 		"common": 267
 	},
 	{
@@ -602,7 +608,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 43873,
+		"ips": 43858,
 		"common": 7
 	},
 	{
@@ -614,13 +620,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9517485,
+		"ips": 9517501,
 		"common": 92512
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25696,
+		"ips": 25700,
 		"common": 8
 	},
 	{
@@ -662,7 +668,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2284,
+		"ips": 2265,
 		"common": 1
 	},
 	{
@@ -998,7 +1004,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5011,
+		"ips": 5007,
 		"common": 22
 	},
 	{
@@ -1112,7 +1118,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3999,
+		"ips": 4003,
 		"common": 1
 	},
 	{
@@ -1184,7 +1190,7 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1981,
+		"ips": 1980,
 		"common": 1
 	},
 	{
@@ -1192,6 +1198,12 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 8
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 366,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
