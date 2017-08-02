@@ -8,7 +8,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 310,
+		"ips": 324,
 		"common": 1
 	},
 	{
@@ -62,14 +62,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 27875,
+		"ips": 27876,
 		"common": 20
-	},
-	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 40,
-		"common": 1
 	},
 	{
 		"name": "botscout_1d",
@@ -80,13 +74,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15258,
+		"ips": 15251,
 		"common": 120
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4518,
+		"ips": 4497,
 		"common": 62
 	},
 	{
@@ -212,7 +206,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38582,
+		"ips": 38585,
 		"common": 251
 	},
 	{
@@ -224,7 +218,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38724,
+		"ips": 38664,
 		"common": 390
 	},
 	{
@@ -236,7 +230,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41866,
+		"ips": 41876,
 		"common": 76
 	},
 	{
@@ -248,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9518491,
+		"ips": 9518485,
 		"common": 129
 	},
 	{
@@ -272,7 +266,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1680,
+		"ips": 1692,
 		"common": 1
 	},
 	{
@@ -482,13 +476,13 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 806,
-		"common": 100
+		"ips": 803,
+		"common": 98
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1856,
+		"ips": 1835,
 		"common": 143
 	},
 	{
@@ -500,7 +494,7 @@
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3260,
+		"ips": 3243,
 		"common": 163
 	},
 	{
@@ -554,25 +548,25 @@
 	{
 		"name": "proxz",
 		"category": "anonymizers",
-		"ips": 24,
-		"common": 2
+		"ips": 23,
+		"common": 4
 	},
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 263,
-		"common": 30
+		"ips": 255,
+		"common": 31
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 1765,
+		"ips": 1766,
 		"common": 116
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 923,
+		"ips": 920,
 		"common": 85
 	},
 	{
@@ -759,6 +753,12 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 412,
 		"common": 1
 	},
 	{
