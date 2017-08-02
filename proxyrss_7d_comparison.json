@@ -32,25 +32,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30926,
-		"common": 95
+		"ips": 30890,
+		"common": 94
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 439,
-		"common": 57
+		"ips": 437,
+		"common": 56
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22363,
+		"ips": 22326,
 		"common": 37
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6523,
+		"ips": 6522,
 		"common": 1
 	},
 	{
@@ -278,14 +278,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38681,
+		"ips": 38684,
 		"common": 2777
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39470,
-		"common": 95
+		"ips": 39436,
+		"common": 94
 	},
 	{
 		"name": "firehol_level3",
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25581,
+		"ips": 25584,
 		"common": 2782
 	},
 	{
@@ -476,8 +476,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 27777,
-		"common": 27
+		"ips": 27999,
+		"common": 25
 	},
 	{
 		"name": "nullsecure",
@@ -744,27 +744,21 @@
 		"common": 1
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2941,
+		"ips": 2969,
 		"common": 23
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8887,
+		"ips": 8889,
 		"common": 32
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4995,
+		"ips": 4997,
 		"common": 30
 	},
 	{
@@ -813,24 +807,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 300,
+		"ips": 302,
 		"common": 89
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 3940,
+		"ips": 3941,
 		"common": 450
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 990,
+		"ips": 992,
 		"common": 263
 	},
 	{
@@ -886,6 +880,18 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 157,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 140,
+		"common": 2
 	},
 	{
 		"name": "xroxy",
