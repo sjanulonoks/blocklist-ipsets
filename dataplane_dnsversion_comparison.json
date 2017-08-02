@@ -6,6 +6,12 @@
 		"common": 44
 	},
 	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268567,
+		"common": 9
+	},
+	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 525,
@@ -110,8 +116,8 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 341,
-		"common": 236
+		"ips": 350,
+		"common": 245
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -165,13 +171,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28928,
-		"common": 66
+		"common": 75
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14592,
-		"common": 51
+		"common": 60
 	},
 	{
 		"name": "et_block",
@@ -207,7 +213,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132802,
-		"common": 87
+		"common": 96
 	},
 	{
 		"name": "firehol_level4",
@@ -279,13 +285,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 10
+		"common": 12
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 25
+		"common": 30
 	},
 	{
 		"name": "nullsecure",
@@ -303,7 +309,7 @@
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -321,7 +327,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2903,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -333,6 +339,12 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 2609,
+		"common": 2
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 12206,
 		"common": 2
 	},
 	{
@@ -357,7 +369,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 86
+		"common": 90
 	},
 	{
 		"name": "urandomusto_dns",
@@ -423,6 +435,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30158,
-		"common": 64
+		"common": 69
 	}
 ]
