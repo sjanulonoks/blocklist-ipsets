@@ -27,7 +27,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24528204,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "et_dshield",
@@ -36,10 +36,16 @@
 		"common": 1
 	},
 	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24521984,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652717743,
-		"common": 48
+		"ips": 652717744,
+		"common": 50
 	},
 	{
 		"name": "firehol_level2",
@@ -51,19 +57,19 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 132022,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9520900,
+		"ips": 9520897,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34041,
-		"common": 48
+		"common": 49
 	},
 	{
 		"name": "firehol_webserver",
@@ -87,7 +93,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655850147,
-		"common": 8
+		"common": 10
 	},
 	{
 		"name": "iblocklist_level1",
@@ -105,6 +111,12 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138841142,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24521984,
 		"common": 1
 	},
 	{
@@ -132,6 +144,12 @@
 		"common": 1
 	},
 	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24720896,
+		"common": 1
+	},
+	{
 		"name": "spamhaus_edrop",
 		"category": "reputation",
 		"ips": 758272,
@@ -141,6 +159,6 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2883,
-		"common": 48
+		"common": 49
 	}
 ]
