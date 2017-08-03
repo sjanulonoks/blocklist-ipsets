@@ -18,16 +18,16 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 30267,
-		"common": 189
-	},
-	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 30770,
+		"ips": 30780,
 		"common": 48
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1233,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -120,6 +120,12 @@
 		"common": 1
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1144,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 276337,
@@ -128,19 +134,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38759,
-		"common": 189
+		"ips": 17425,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129807,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9362824,
+		"ips": 9362833,
 		"common": 59
 	},
 	{
@@ -177,7 +183,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656158627,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -363,6 +369,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30180,
-		"common": 43
+		"common": 44
 	}
 ]
