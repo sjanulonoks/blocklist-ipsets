@@ -170,85 +170,85 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 7195,
+		"ips": 7191,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 4132,
+		"ips": 4128,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7497,
+		"ips": 7517,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9504,
+		"ips": 9502,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 26870,
+		"ips": 26872,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14477,
+		"ips": 14483,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30812,
+		"ips": 30828,
 		"common": 131
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8940,
+		"ips": 8937,
 		"common": 51
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 376,
+		"ips": 374,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 682,
+		"ips": 683,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 1968,
+		"ips": 1981,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 22275,
+		"ips": 22278,
 		"common": 34
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 260,
+		"ips": 261,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6502,
+		"ips": 6514,
 		"common": 31
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 30427,
+		"ips": 30477,
 		"common": 13
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 505364,
+		"ips": 505365,
 		"common": 43
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38598,
+		"ips": 38599,
 		"common": 4
 	},
 	{
@@ -722,7 +722,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39119,
+		"ips": 39135,
 		"common": 369
 	},
 	{
@@ -734,13 +734,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9362493,
+		"ips": 9362543,
 		"common": 232
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25583,
+		"ips": 25584,
 		"common": 4
 	},
 	{
@@ -1082,8 +1082,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29861,
-		"common": 13
+		"ips": 31643,
+		"common": 16
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1160,7 +1160,7 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 328,
+		"ips": 327,
 		"common": 1
 	},
 	{
@@ -1352,7 +1352,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 1614,
+		"ips": 1612,
 		"common": 5
 	},
 	{
@@ -1388,25 +1388,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 181,
-		"common": 14
+		"ips": 183,
+		"common": 15
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 157,
-		"common": 13
+		"ips": 138,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 130,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 172,
-		"common": 11
+		"ips": 170,
+		"common": 10
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 178,
+		"ips": 181,
 		"common": 10
 	},
 	{
@@ -1418,25 +1424,25 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 292,
-		"common": 26
+		"ips": 383,
+		"common": 41
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 447,
-		"common": 65
+		"ips": 441,
+		"common": 56
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 155,
-		"common": 25
+		"ips": 160,
+		"common": 27
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 14,
+		"ips": 13,
 		"common": 2
 	},
 	{

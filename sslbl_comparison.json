@@ -45,12 +45,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652717762,
-		"common": 50
+		"common": 51
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39119,
+		"ips": 39135,
 		"common": 1
 	},
 	{
@@ -62,8 +62,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9362493,
-		"common": 1
+		"ips": 9362543,
+		"common": 2
 	},
 	{
 		"name": "firehol_webclient",
@@ -93,7 +93,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 655850147,
-		"common": 10
+		"common": 11
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8893440,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
