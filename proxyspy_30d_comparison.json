@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 30755,
+		"ips": 30712,
 		"common": 89
 	},
 	{
@@ -114,22 +114,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 64,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 966,
+		"ips": 975,
 		"common": 17
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15171,
-		"common": 249
+		"ips": 15160,
+		"common": 248
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4562,
-		"common": 83
+		"ips": 4563,
+		"common": 82
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -140,49 +146,49 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2491,
-		"common": 26
+		"ips": 2499,
+		"common": 24
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32086,
-		"common": 398
+		"ips": 31801,
+		"common": 392
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124838,
-		"common": 1492
+		"ips": 124825,
+		"common": 1491
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66588,
+		"ips": 66594,
 		"common": 831
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 26
+		"common": 24
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37626,
-		"common": 403
+		"ips": 37221,
+		"common": 397
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 164667,
-		"common": 1516
+		"ips": 164643,
+		"common": 1515
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 83822,
+		"ips": 83825,
 		"common": 844
 	},
 	{
@@ -314,14 +320,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40079,
-		"common": 423
+		"ips": 39749,
+		"common": 417
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276361,
-		"common": 3055
+		"ips": 276353,
+		"common": 3054
 	},
 	{
 		"name": "firehol_anonymous",
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38481,
+		"ips": 37723,
 		"common": 33
 	},
 	{
@@ -350,8 +356,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9362802,
-		"common": 283
+		"ips": 9362746,
+		"common": 282
 	},
 	{
 		"name": "firehol_proxies",
@@ -946,6 +952,12 @@
 		"category": "reputation",
 		"ips": 27252,
 		"common": 7
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 264,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
