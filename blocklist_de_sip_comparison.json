@@ -18,10 +18,10 @@
 		"common": 1
 	},
 	{
-		"name": "blocklist_de",
+		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 29295,
-		"common": 189
+		"ips": 6259,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -44,25 +44,25 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 124730,
+		"ips": 124716,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66246,
+		"ips": 66237,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 164515,
+		"ips": 164500,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 83427,
+		"ips": 83412,
 		"common": 1
 	},
 	{
@@ -70,6 +70,12 @@
 		"category": "malware",
 		"ips": 30397,
 		"common": 11
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 10189,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -87,13 +93,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 10562,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 9008,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "dragon_http",
@@ -105,7 +111,7 @@
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
 		"ips": 312387,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_30d",
@@ -128,14 +134,14 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276217,
+		"ips": 276210,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37742,
-		"common": 187
+		"ips": 17331,
+		"common": 2
 	},
 	{
 		"name": "firehol_level3",
@@ -159,7 +165,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739784,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "gofferje_sip",
@@ -171,7 +177,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2211,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
@@ -291,7 +297,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 30
+		"common": 31
 	},
 	{
 		"name": "sorbs_dul",
@@ -321,13 +327,13 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12360,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "urandomusto_ssh",
