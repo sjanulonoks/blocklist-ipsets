@@ -15,19 +15,19 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652717748,
-		"common": 8
+		"ips": 652717743,
+		"common": 9
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739778,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "hphosts_ats",
@@ -75,7 +75,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30049,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_wrz",
@@ -96,9 +96,27 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
+		"common": 1
+	},
+	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 328,
+		"common": 1
+	},
+	{
+		"name": "ransomware_torrentlocker_c2",
+		"category": "malware",
+		"ips": 9,
 		"common": 1
 	}
 ]

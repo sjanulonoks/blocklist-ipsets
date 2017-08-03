@@ -3,24 +3,60 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 407,
+		"common": 2
+	},
+	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 39,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652717748,
-		"common": 1
+		"ips": 652717743,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34739778,
+		"common": 3
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 14913,
 		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26633,
+		"common": 3
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 26309,
+		"common": 1
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1692,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 30049,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5015,
 		"common": 1
 	}
 ]
