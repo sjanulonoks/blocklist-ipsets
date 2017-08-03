@@ -150,9 +150,15 @@
 		"common": 3
 	},
 	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 30395,
+		"common": 1
+	},
+	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 360,
 		"common": 55
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 505358,
+		"ips": 505359,
 		"common": 2
 	},
 	{
@@ -274,6 +280,18 @@
 		"category": "attacks",
 		"ips": 129930,
 		"common": 80
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9361812,
+		"common": 1
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 34048,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -387,7 +405,13 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1644064,
-		"common": 5
+		"common": 43
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38223,
+		"common": 3
 	},
 	{
 		"name": "nullsecure",
@@ -429,13 +453,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 3
+		"common": 12
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 3
+		"common": 9
 	},
 	{
 		"name": "spamhaus_edrop",
