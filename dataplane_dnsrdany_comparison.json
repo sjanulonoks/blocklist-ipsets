@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_attacks",
@@ -30,10 +30,22 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29266,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9261,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 32513,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -74,7 +86,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276217,
+		"ips": 276237,
 		"common": 1
 	},
 	{
@@ -87,7 +99,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129926,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
@@ -111,7 +123,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 32295,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level1",
@@ -153,7 +165,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 12360,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "threatcrowd",
@@ -165,19 +177,19 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 180,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 160,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "urandomusto_smb",
