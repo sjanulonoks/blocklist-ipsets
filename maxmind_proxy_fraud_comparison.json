@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 30697,
+		"ips": 30713,
 		"common": 41
 	},
 	{
@@ -158,13 +158,13 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 435,
+		"ips": 436,
 		"common": 1
 	},
 	{
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
-		"ips": 78,
+		"ips": 79,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38589,
+		"ips": 38584,
 		"common": 455
 	},
 	{
@@ -272,19 +272,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129401,
+		"ips": 129409,
 		"common": 455
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9362775,
+		"ips": 9362792,
 		"common": 160
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25572,
+		"ips": 25567,
 		"common": 455
 	},
 	{
@@ -698,7 +698,7 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 895,
+		"ips": 896,
 		"common": 135
 	},
 	{
@@ -710,13 +710,13 @@
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1968,
+		"ips": 1969,
 		"common": 164
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1188,
+		"ips": 1189,
 		"common": 148
 	},
 	{
@@ -736,6 +736,12 @@
 		"category": "attacks",
 		"ips": 178,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 159,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
