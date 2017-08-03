@@ -3,7 +3,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 31464,
-		"common": 126
+		"common": 127
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -15,79 +15,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 22714,
-		"common": 126
-	},
-	{
-		"name": "dataplane_dnsrd",
-		"category": "attacks",
-		"ips": 346,
-		"common": 1
-	},
-	{
-		"name": "dataplane_dnsversion",
-		"category": "attacks",
-		"ips": 241,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sipquery",
-		"category": "attacks",
-		"ips": 436,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sshclient",
-		"category": "attacks",
-		"ips": 10496,
-		"common": 1
-	},
-	{
-		"name": "dataplane_vncrfb",
-		"category": "attacks",
-		"ips": 351,
-		"common": 1
-	},
-	{
-		"name": "dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "dshield_1d",
-		"category": "attacks",
-		"ips": 6656,
-		"common": 1
-	},
-	{
-		"name": "dshield_30d",
-		"category": "attacks",
-		"ips": 28160,
-		"common": 1
-	},
-	{
-		"name": "dshield_7d",
-		"category": "attacks",
-		"ips": 14080,
-		"common": 1
-	},
-	{
-		"name": "et_block",
-		"category": "attacks",
-		"ips": 24528204,
-		"common": 1
-	},
-	{
-		"name": "et_dshield",
-		"category": "attacks",
-		"ips": 5120,
-		"common": 1
-	},
-	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 652717744,
-		"common": 1
+		"common": 127
 	},
 	{
 		"name": "firehol_level2",
@@ -96,63 +24,27 @@
 		"common": 127
 	},
 	{
-		"name": "firehol_level3",
-		"category": "attacks",
-		"ips": 129517,
-		"common": 1
-	},
-	{
-		"name": "firehol_webserver",
-		"category": "attacks",
-		"ips": 34739778,
-		"common": 1
-	},
-	{
-		"name": "graphiclineweb",
-		"category": "abuse",
-		"ips": 330527,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691372,
 		"common": 126
 	},
 	{
-		"name": "packetmail",
+		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3692,
+		"ips": 2478,
 		"common": 1
 	},
 	{
-		"name": "pushing_inertia_blocklist",
-		"category": "reputation",
-		"ips": 34512264,
-		"common": 1
-	},
-	{
-		"name": "turris_greylist",
-		"category": "reputation",
-		"ips": 27252,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ftp",
-		"category": "attacks",
-		"ips": 181,
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 151,
-		"common": 119
-	},
-	{
-		"name": "voipbl",
-		"category": "attacks",
-		"ips": 30180,
-		"common": 1
+		"ips": 135,
+		"common": 123
 	}
 ]
