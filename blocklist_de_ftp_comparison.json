@@ -15,19 +15,19 @@
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 273,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 2923,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 1622,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bi_ftp_2_30d",
@@ -36,16 +36,28 @@
 		"common": 9
 	},
 	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 1256,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_2_30d",
+		"category": "attacks",
+		"ips": 1588,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29018,
-		"common": 889
+		"ips": 29105,
+		"common": 891
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 176,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -218,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37583,
-		"common": 889
+		"ips": 37667,
+		"common": 891
 	},
 	{
 		"name": "firehol_level3",
@@ -255,7 +267,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2370,
-		"common": 139
+		"common": 140
 	},
 	{
 		"name": "hphosts_emd",
@@ -327,7 +339,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139004063,
-		"common": 44
+		"common": 45
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -375,7 +387,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 3585,
-		"common": 77
+		"common": 78
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -507,6 +519,6 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 209,
-		"common": 52
+		"common": 53
 	}
 ]
