@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 30100,
+		"ips": 30134,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39277,
+		"ips": 39320,
 		"common": 3
 	},
 	{
@@ -230,8 +230,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 17331,
-		"common": 3
+		"ips": 17376,
+		"common": 4
 	},
 	{
 		"name": "firehol_level3",
@@ -242,7 +242,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9362126,
+		"ips": 9362150,
 		"common": 1
 	},
 	{
@@ -260,8 +260,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2211,
-		"common": 3
+		"ips": 2257,
+		"common": 4
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -350,7 +350,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38743,
+		"ips": 38716,
 		"common": 1
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5867,
+		"ips": 5938,
 		"common": 1
 	},
 	{
@@ -471,6 +471,12 @@
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 432,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 30218,
 		"common": 1
 	}
 ]
