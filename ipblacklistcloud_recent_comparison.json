@@ -1,21 +1,21 @@
 [
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 29633,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_sip",
-		"category": "attacks",
-		"ips": 225,
-		"common": 1
-	},
-	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 29829,
-		"common": 13
+		"common": 10
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 124862,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 164650,
+		"common": 1
 	},
 	{
 		"name": "cybercrime",
@@ -24,16 +24,16 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_level2",
-		"category": "attacks",
-		"ips": 38246,
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 276398,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9361877,
-		"common": 32
+		"common": 10
 	},
 	{
 		"name": "firehol_webclient",
@@ -42,57 +42,51 @@
 		"common": 1
 	},
 	{
-		"name": "firehol_webserver",
-		"category": "attacks",
-		"ips": 34739641,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_isp_att",
+		"name": "iblocklist_isp_twc",
 		"category": "organizations",
-		"ips": 55845128,
+		"ips": 15015936,
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_charter",
+		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
-		"ips": 6138112,
+		"ips": 18087936,
 		"common": 1
 	},
 	{
-		"name": "iblocklist_isp_comcast",
-		"category": "organizations",
-		"ips": 45121536,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_level2",
+		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 346603969,
+		"ips": 762691372,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 845657,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4342093,
 		"common": 1
 	},
 	{
 		"name": "ipblacklistcloud_recent_1d",
 		"category": "abuse",
-		"ips": 32,
+		"ips": 64,
 		"common": 32
 	},
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 429,
+		"ips": 457,
 		"common": 32
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 118,
-		"common": 32
-	},
-	{
-		"name": "ipblacklistcloud_top",
-		"category": "abuse",
-		"ips": 232,
+		"ips": 150,
 		"common": 32
 	},
 	{
@@ -102,16 +96,10 @@
 		"common": 1
 	},
 	{
-		"name": "pushing_inertia_blocklist",
-		"category": "reputation",
-		"ips": 34512264,
-		"common": 1
-	},
-	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 19
+		"common": 10
 	},
 	{
 		"name": "sorbs_noserver",

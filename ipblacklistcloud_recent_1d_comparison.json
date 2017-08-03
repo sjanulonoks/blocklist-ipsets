@@ -15,12 +15,30 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 29829,
-		"common": 13
+		"common": 23
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 124862,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 164650,
+		"common": 1
 	},
 	{
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 30395,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 276398,
 		"common": 1
 	},
 	{
@@ -33,13 +51,13 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9361877,
-		"common": 32
+		"common": 42
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34047,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -66,9 +84,39 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762691372,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346603969,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_pedophiles",
+		"category": "reputation",
+		"ips": 845657,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4342093,
 		"common": 1
 	},
 	{
@@ -80,14 +128,14 @@
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 429,
-		"common": 32
+		"ips": 457,
+		"common": 64
 	},
 	{
 		"name": "ipblacklistcloud_recent_7d",
 		"category": "abuse",
-		"ips": 118,
-		"common": 32
+		"ips": 150,
+		"common": 64
 	},
 	{
 		"name": "ipblacklistcloud_top",
@@ -99,7 +147,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1644064,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -111,12 +159,12 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 19
+		"common": 29
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 2
+		"common": 4
 	}
 ]
