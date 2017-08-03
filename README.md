@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Thu Aug  3 19:54:10 UTC 2017.
+The following list was automatically generated on Thu Aug  3 19:57:07 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -1080,10 +1080,10 @@ php_bad|[projecthoneypot.org](http://www.projecthoneypot.org/?rf=192670) bad web
 [proxylists_1d](http://iplists.firehol.org/?ipset=proxylists_1d)|[proxylists.net](http://www.proxylists.net/) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|1726 unique IPs|updated every 1 hour  from [this link](http://www.proxylists.net/proxylists.xml)
 [proxylists_30d](http://iplists.firehol.org/?ipset=proxylists_30d)|[proxylists.net](http://www.proxylists.net/) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|4547 unique IPs|updated every 1 hour  from [this link](http://www.proxylists.net/proxylists.xml)
 [proxylists_7d](http://iplists.firehol.org/?ipset=proxylists_7d)|[proxylists.net](http://www.proxylists.net/) open proxies (this list is composed using an RSS feed)|ipv4 hash:ip|3217 unique IPs|updated every 1 hour  from [this link](http://www.proxylists.net/proxylists.xml)
-[proxyrss](http://iplists.firehol.org/?ipset=proxyrss)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|504 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
-[proxyrss_1d](http://iplists.firehol.org/?ipset=proxyrss_1d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|1327 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
-[proxyrss_30d](http://iplists.firehol.org/?ipset=proxyrss_30d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|4049 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
-[proxyrss_7d](http://iplists.firehol.org/?ipset=proxyrss_7d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|2790 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
+[proxyrss](http://iplists.firehol.org/?ipset=proxyrss)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|591 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
+[proxyrss_1d](http://iplists.firehol.org/?ipset=proxyrss_1d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|1346 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
+[proxyrss_30d](http://iplists.firehol.org/?ipset=proxyrss_30d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|4053 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
+[proxyrss_7d](http://iplists.firehol.org/?ipset=proxyrss_7d)|[proxyrss.com](http://www.proxyrss.com) open proxies syndicated from multiple sources.|ipv4 hash:ip|2787 unique IPs|updated every 4 hours  from [this link](http://www.proxyrss.com/proxylists/all.gz)
 [proxyspy](http://iplists.firehol.org/?ipset=proxyspy)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|300 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
 [proxyspy_1d](http://iplists.firehol.org/?ipset=proxyspy_1d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|300 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
 [proxyspy_30d](http://iplists.firehol.org/?ipset=proxyspy_30d)|[ProxySpy](http://spys.ru/en/) open proxies (updated hourly)|ipv4 hash:ip|6720 unique IPs|updated every 1 hour  from [this link](http://txt.proxyspy.net/proxy.txt)
