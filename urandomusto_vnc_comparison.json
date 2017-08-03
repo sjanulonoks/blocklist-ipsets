@@ -60,9 +60,27 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 30970,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 6594,
+		"common": 1
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1233,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 32023,
+		"ips": 32142,
 		"common": 2
 	},
 	{
@@ -87,13 +105,19 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 10523,
+		"common": 2
+	},
+	{
+		"name": "dataplane_sshpwauth",
+		"category": "attacks",
+		"ips": 8998,
 		"common": 1
 	},
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 344,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dshield",
@@ -126,6 +150,12 @@
 		"common": 1
 	},
 	{
+		"name": "et_compromised",
+		"category": "attacks",
+		"ips": 1144,
+		"common": 1
+	},
+	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
@@ -140,14 +170,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39452,
-		"common": 2
+		"ips": 39462,
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129686,
-		"common": 3
+		"ips": 129807,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -158,8 +188,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2547,
-		"common": 1
+		"ips": 2559,
+		"common": 2
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -234,16 +264,10 @@
 		"common": 4
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 149,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 149,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "voipbl",
