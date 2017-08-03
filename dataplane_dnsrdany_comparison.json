@@ -30,15 +30,21 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29942,
+		"common": 2
+	},
+	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9115,
+		"ips": 9117,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 6519,
+		"ips": 6501,
 		"common": 1
 	},
 	{
@@ -51,7 +57,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 354,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -69,13 +75,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28160,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14080,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "et_block",
@@ -98,14 +104,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 17426,
-		"common": 5
+		"ips": 38435,
+		"common": 7
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 129807,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
@@ -183,13 +189,13 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 178,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "urandomusto_ntp",
