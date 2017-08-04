@@ -2,49 +2,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30711,
+		"ips": 30910,
 		"common": 34
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9371,
+		"ips": 9367,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 441,
-		"common": 26
+		"ips": 445,
+		"common": 25
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 856,
+		"ips": 853,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20566,
-		"common": 5
+		"ips": 20655,
+		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7471,
+		"ips": 7574,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 179,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28913,
+		"ips": 28827,
 		"common": 15
 	},
 	{
@@ -60,21 +60,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 56,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1055,
+		"ips": 1068,
 		"common": 26
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15117,
+		"ips": 15119,
 		"common": 77
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4624,
+		"ips": 4635,
 		"common": 54
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38223,
+		"ips": 38227,
 		"common": 150
 	},
 	{
@@ -206,19 +212,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38388,
+		"ips": 38596,
 		"common": 34
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129532,
-		"common": 31
+		"ips": 129521,
+		"common": 34
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031739,
+		"ips": 9031656,
 		"common": 80
 	},
 	{
@@ -316,6 +322,12 @@
 		"category": "abuse",
 		"ips": 3675,
 		"common": 34
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 38002,
+		"common": 1
 	},
 	{
 		"name": "packetmail_mail",
@@ -688,6 +700,12 @@
 		"category": "abuse",
 		"ips": 155837,
 		"common": 100
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 179,
+		"common": 1
 	},
 	{
 		"name": "xroxy",

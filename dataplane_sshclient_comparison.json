@@ -62,73 +62,73 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 27300,
+		"ips": 27305,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14784,
+		"ips": 14790,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30711,
-		"common": 4158
+		"ips": 30910,
+		"common": 4160
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9371,
-		"common": 106
+		"ips": 9367,
+		"common": 104
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 856,
-		"common": 98
+		"ips": 853,
+		"common": 95
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 938,
-		"common": 12
+		"ips": 944,
+		"common": 10
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2887,
+		"ips": 2908,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20566,
-		"common": 50
+		"ips": 20655,
+		"common": 55
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 207,
+		"ips": 208,
 		"common": 5
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7471,
-		"common": 3986
+		"ips": 7574,
+		"common": 3987
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 173,
-		"common": 81
+		"ips": 179,
+		"common": 89
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28913,
+		"ips": 28827,
 		"common": 766
 	},
 	{
@@ -152,25 +152,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 48,
-		"common": 1
+		"ips": 56,
+		"common": 5
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1055,
-		"common": 97
+		"ips": 1068,
+		"common": 98
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15117,
+		"ips": 15119,
 		"common": 280
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4624,
+		"ips": 4635,
 		"common": 228
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38223,
+		"ips": 38227,
 		"common": 318
 	},
 	{
@@ -446,19 +446,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38388,
-		"common": 4269
+		"ips": 38596,
+		"common": 4272
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129532,
-		"common": 1154
+		"ips": 129521,
+		"common": 1155
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031739,
+		"ips": 9031656,
 		"common": 1899
 	},
 	{
@@ -500,8 +500,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2813,
-		"common": 275
+		"ips": 2829,
+		"common": 277
 	},
 	{
 		"name": "haley_ssh",
@@ -734,8 +734,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37946,
-		"common": 86
+		"ips": 38002,
+		"common": 84
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1064,7 +1064,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 1598,
+		"ips": 1601,
 		"common": 247
 	},
 	{
@@ -1118,19 +1118,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 153,
-		"common": 5
+		"ips": 158,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 179,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 232,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 174,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 208,
+		"ips": 212,
 		"common": 2
 	},
 	{
@@ -1142,14 +1154,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 180,
-		"common": 103
+		"ips": 252,
+		"common": 150
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 443,
-		"common": 1
+		"ips": 438,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -1160,8 +1172,8 @@
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 20,
-		"common": 4
+		"ips": 21,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
