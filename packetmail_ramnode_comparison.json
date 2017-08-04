@@ -92,43 +92,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29844,
+		"ips": 29839,
 		"common": 93
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9365,
+		"common": 23
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 473,
+		"ips": 471,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 943,
+		"ips": 941,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2370,
-		"common": 8
+		"ips": 2388,
+		"common": 10
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 19989,
+		"common": 20
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 215,
+		"ips": 213,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7128,
-		"common": 44
+		"ips": 7144,
+		"common": 45
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28691,
+		"ips": 28695,
 		"common": 2
 	},
 	{
@@ -260,13 +272,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10822,
+		"ips": 10846,
 		"common": 68
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 9287,
+		"ips": 9307,
 		"common": 33
 	},
 	{
@@ -284,7 +296,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 509227,
+		"ips": 509403,
 		"common": 11
 	},
 	{
@@ -410,7 +422,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38618,
+		"ips": 38688,
 		"common": 212
 	},
 	{
@@ -422,7 +434,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031531,
+		"ips": 9031539,
 		"common": 28
 	},
 	{
@@ -470,7 +482,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 21944,
+		"ips": 21948,
 		"common": 16
 	},
 	{
@@ -662,8 +674,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 3433,
-		"common": 259
+		"ips": 3408,
+		"common": 252
 	},
 	{
 		"name": "packetmail_carisirt",
