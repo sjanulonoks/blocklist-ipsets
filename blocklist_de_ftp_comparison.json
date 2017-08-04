@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 258,
+		"ips": 262,
 		"common": 3
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28711,
+		"ips": 28710,
 		"common": 37
 	},
 	{
@@ -164,7 +164,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 510073,
+		"ips": 510249,
 		"common": 2
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37354,
+		"ips": 37355,
 		"common": 178
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38760,
+		"ips": 38753,
 		"common": 937
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031562,
+		"ips": 9031556,
 		"common": 51
 	},
 	{
@@ -254,8 +254,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3274,
-		"common": 177
+		"ips": 3280,
+		"common": 175
 	},
 	{
 		"name": "hphosts_emd",
@@ -368,8 +368,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38815,
-		"common": 3
+		"ips": 38807,
+		"common": 2
 	},
 	{
 		"name": "packetmail",
@@ -506,7 +506,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 193,
+		"ips": 169,
 		"common": 63
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 220,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 152,
+		"common": 1
 	}
 ]
