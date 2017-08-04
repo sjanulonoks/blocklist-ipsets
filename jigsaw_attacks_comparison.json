@@ -80,8 +80,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 115,
-		"common": 17
+		"ips": 118,
+		"common": 19
 	},
 	{
 		"name": "bambenek_c2",
@@ -110,14 +110,14 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 120,
-		"common": 72
+		"ips": 126,
+		"common": 73
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
 		"ips": 48,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "bambenek_tinba",
@@ -236,37 +236,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30980,
+		"ips": 31099,
 		"common": 36
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9383,
+		"ips": 9401,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 866,
+		"ips": 885,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2903,
+		"ips": 2920,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20643,
+		"ips": 20709,
 		"common": 25
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7634,
+		"ips": 7667,
 		"common": 7
 	},
 	{
@@ -338,25 +338,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 57,
-		"common": 1
+		"ips": 59,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1076,
-		"common": 40
+		"ips": 1085,
+		"common": 42
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15118,
+		"ips": 15114,
 		"common": 108
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4631,
+		"ips": 4629,
 		"common": 72
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38722,
+		"ips": 38723,
 		"common": 1094
 	},
 	{
@@ -806,8 +806,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38675,
-		"common": 102
+		"ips": 38791,
+		"common": 101
 	},
 	{
 		"name": "firehol_level3",
@@ -818,13 +818,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031856,
+		"ips": 9031852,
 		"common": 1398
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25666,
+		"ips": 25667,
 		"common": 98
 	},
 	{
@@ -866,8 +866,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2843,
-		"common": 33
+		"ips": 2830,
+		"common": 32
 	},
 	{
 		"name": "haley_ssh",
@@ -1202,7 +1202,7 @@
 	{
 		"name": "ipblacklistcloud_recent_30d",
 		"category": "abuse",
-		"ips": 473,
+		"ips": 491,
 		"common": 1
 	},
 	{
@@ -1448,19 +1448,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2667,
+		"ips": 2656,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8824,
+		"ips": 8825,
 		"common": 7
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4938,
+		"ips": 4934,
 		"common": 3
 	},
 	{
@@ -1538,7 +1538,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 1163,
+		"ips": 1164,
 		"common": 1
 	},
 	{
@@ -1652,20 +1652,26 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 179,
+		"ips": 243,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 213,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 174,
+		"ips": 170,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 212,
-		"common": 9
+		"ips": 211,
+		"common": 8
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1676,26 +1682,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 252,
-		"common": 1
+		"ips": 292,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 438,
-		"common": 3
+		"ips": 437,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 156,
-		"common": 12
+		"ips": 159,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
 		"ips": 21,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urlvir",
