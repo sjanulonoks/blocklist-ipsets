@@ -132,6 +132,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 473,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
 		"ips": 2370,
@@ -152,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28673,
-		"common": 14
+		"ips": 28691,
+		"common": 15
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -200,25 +206,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 52,
+		"ips": 61,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1086,
+		"ips": 1087,
 		"common": 4
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15124,
+		"ips": 15121,
 		"common": 43
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4586,
+		"ips": 4588,
 		"common": 16
 	},
 	{
@@ -392,7 +398,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 509033,
+		"ips": 509124,
 		"common": 64
 	},
 	{
@@ -590,7 +596,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37310,
+		"ips": 37313,
 		"common": 245
 	},
 	{
@@ -608,26 +614,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652597942,
+		"ips": 652597943,
 		"common": 19216
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38611,
+		"ips": 38618,
 		"common": 14
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129497,
+		"ips": 129498,
 		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031519,
-		"common": 92522
+		"ips": 9031531,
+		"common": 92523
 	},
 	{
 		"name": "firehol_proxies",
@@ -674,7 +680,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3255,
+		"ips": 3277,
 		"common": 1
 	},
 	{
@@ -1200,12 +1206,6 @@
 		"common": 8
 	},
 	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 235,
-		"common": 1
-	},
-	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30218,
@@ -1220,13 +1220,13 @@
 	{
 		"name": "zeus",
 		"category": "malware",
-		"ips": 138,
+		"ips": 139,
 		"common": 1
 	},
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 126,
+		"ips": 127,
 		"common": 1
 	}
 ]
