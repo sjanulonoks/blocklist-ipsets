@@ -12,6 +12,18 @@
 		"common": 11
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29130,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ssh",
+		"category": "attacks",
+		"ips": 6628,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 32513,
@@ -62,7 +74,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 10660,
+		"ips": 10687,
 		"common": 1
 	},
 	{
@@ -98,7 +110,7 @@
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
-		"ips": 900,
+		"ips": 558,
 		"common": 1
 	},
 	{
@@ -122,7 +134,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 276334,
+		"ips": 276295,
 		"common": 2
 	},
 	{
@@ -134,19 +146,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37804,
-		"common": 5
+		"ips": 37805,
+		"common": 6
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 129926,
-		"common": 123
+		"ips": 129588,
+		"common": 124
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031629,
+		"ips": 9031538,
 		"common": 2
 	},
 	{
@@ -254,7 +266,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37273,
+		"ips": 37221,
 		"common": 1
 	},
 	{
@@ -266,8 +278,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 2343,
-		"common": 6
+		"ips": 2334,
+		"common": 8
 	},
 	{
 		"name": "pushing_inertia_blocklist",
