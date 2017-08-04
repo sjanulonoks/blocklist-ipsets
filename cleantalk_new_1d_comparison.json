@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28545,
+		"ips": 28608,
 		"common": 12
 	},
 	{
@@ -182,8 +182,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 505375,
-		"common": 46
+		"ips": 505416,
+		"common": 50
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37967,
+		"ips": 37976,
 		"common": 107
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031398,
+		"ips": 9031458,
 		"common": 91
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3025,
+		"ips": 3041,
 		"common": 23
 	},
 	{
@@ -824,7 +824,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 220,
-		"common": 3
+		"ips": 211,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 141,
+		"common": 1
 	}
 ]

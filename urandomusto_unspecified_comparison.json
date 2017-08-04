@@ -74,8 +74,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28545,
-		"common": 6
+		"ips": 28608,
+		"common": 7
 	},
 	{
 		"name": "ciarmy",
@@ -153,7 +153,7 @@
 		"name": "dataplane_sipregistration",
 		"category": "attacks",
 		"ips": 80,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -242,8 +242,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37967,
-		"common": 42
+		"ips": 37976,
+		"common": 41
 	},
 	{
 		"name": "firehol_level3",
@@ -254,8 +254,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031398,
-		"common": 20
+		"ips": 9031458,
+		"common": 21
 	},
 	{
 		"name": "firehol_webclient",
@@ -278,8 +278,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3025,
-		"common": 21
+		"ips": 3041,
+		"common": 20
 	},
 	{
 		"name": "haley_ssh",
@@ -405,7 +405,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2334,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -471,7 +471,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 27252,
-		"common": 54
+		"common": 53
 	},
 	{
 		"name": "urandomusto_dns",
@@ -482,25 +482,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 220,
+		"ips": 211,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 198,
+		"ips": 190,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 167,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 176,
+		"ips": 175,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 183,
 		"common": 1
 	},
 	{
@@ -512,13 +518,13 @@
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 21,
+		"ips": 20,
 		"common": 1
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 30218,
-		"common": 43
+		"common": 42
 	}
 ]

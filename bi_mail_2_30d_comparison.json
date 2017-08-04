@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 28545,
+		"ips": 28608,
 		"common": 10
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 505375,
+		"ips": 505416,
 		"common": 535
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37967,
+		"ips": 37976,
 		"common": 113
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031398,
+		"ips": 9031458,
 		"common": 57
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3025,
+		"ips": 3041,
 		"common": 8
 	},
 	{
@@ -1058,7 +1058,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 220,
+		"ips": 211,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 190,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 167,
 		"common": 1
 	},
 	{
@@ -1082,13 +1094,13 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 58,
+		"ips": 55,
 		"common": 1
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 137,
+		"ips": 139,
 		"common": 2
 	},
 	{
@@ -1100,7 +1112,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 269,
+		"ips": 267,
 		"common": 2
 	}
 ]
