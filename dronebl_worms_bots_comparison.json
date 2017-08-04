@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 269,
 		"common": 14
 	},
 	{
@@ -150,22 +150,28 @@
 		"common": 24
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 35,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1040,
+		"ips": 1033,
 		"common": 19
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15137,
-		"common": 269
+		"ips": 15128,
+		"common": 268
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4586,
-		"common": 75
+		"ips": 4585,
+		"common": 74
 	},
 	{
 		"name": "bruteforceblocker",
@@ -326,7 +332,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 506014,
+		"ips": 506047,
 		"common": 7572
 	},
 	{
@@ -446,7 +452,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37651,
+		"ips": 37650,
 		"common": 499
 	},
 	{
@@ -470,8 +476,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38066,
-		"common": 360
+		"ips": 38087,
+		"common": 361
 	},
 	{
 		"name": "firehol_level3",
@@ -482,8 +488,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031563,
-		"common": 656
+		"ips": 9031554,
+		"common": 655
 	},
 	{
 		"name": "firehol_proxies",
@@ -530,8 +536,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 3041,
-		"common": 36
+		"ips": 3075,
+		"common": 38
 	},
 	{
 		"name": "haley_ssh",
@@ -1028,7 +1034,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5002,
+		"ips": 5001,
 		"common": 1
 	},
 	{
@@ -1310,13 +1316,19 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 211,
+		"ips": 206,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 226,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 167,
+		"ips": 162,
 		"common": 1
 	},
 	{
@@ -1324,6 +1336,12 @@
 		"category": "attacks",
 		"ips": 183,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 156,
+		"common": 7
 	},
 	{
 		"name": "uscert_hidden_cobra",
