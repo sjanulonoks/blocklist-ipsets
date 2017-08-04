@@ -98,13 +98,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31185,
+		"ips": 31238,
 		"common": 116
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9448,
+		"ips": 9459,
 		"common": 48
 	},
 	{
@@ -116,25 +116,25 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 929,
+		"ips": 941,
 		"common": 43
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2940,
+		"ips": 2938,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20741,
+		"ips": 20770,
 		"common": 39
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 7679,
+		"ips": 7700,
 		"common": 7
 	},
 	{
@@ -176,25 +176,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 51,
+		"ips": 48,
 		"common": 3
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1086,
+		"ips": 1080,
 		"common": 23
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15113,
+		"ips": 15108,
 		"common": 97
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4646,
+		"ips": 4638,
 		"common": 46
 	},
 	{
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38636,
+		"ips": 38639,
 		"common": 86
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 38759,
+		"ips": 38761,
 		"common": 9
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38860,
+		"ips": 38898,
 		"common": 140
 	},
 	{
@@ -446,13 +446,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9031847,
+		"ips": 9031842,
 		"common": 333
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 25682,
+		"ips": 25684,
 		"common": 8
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2815,
+		"ips": 2798,
 		"common": 61
 	},
 	{
@@ -890,7 +890,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8828,
+		"ips": 8829,
 		"common": 1
 	},
 	{
@@ -944,7 +944,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4055,
+		"ips": 4056,
 		"common": 2
 	},
 	{
@@ -1046,13 +1046,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 243,
+		"ips": 232,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 204,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 292,
+		"ips": 272,
 		"common": 1
 	},
 	{
